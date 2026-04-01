@@ -1,0 +1,692 @@
+id,name,length,owners,suppliers,rfs,rfs_year,is_planned,url,notes,n_landing_points,countries
+2africa,2Africa,"45,000 km","Bayobab, China Mobile, Meta, Orange, Telecom Egypt, Vodafone, WIOCC, center3",ASN,2024,2024.0,False,https://www.2africacable.net/,,50,"Angola, Bahrain, Comoros, Congo, Dem. Rep., Congo, Rep., Côte d'Ivoire, Djibouti, Egypt, France, Gabon, Ghana, Greece, India, Iraq, Italy, Kenya, Kuwait, Madagascar, Mozambique, Nigeria, Oman, Pakistan, Portugal, Qatar, Saudi Arabia, Senegal, Seychelles, Somalia, South Africa, Spain, Sudan, Tanzania, United Arab Emirates, United Kingdom"
+5-villages-6-islands,5 Villages 6 Islands,355 km,Tokyo Metropolitan Government,NEC,2019,2019.0,False,,,9,Japan
+acs-alaska-oregon-network-akorn,ACS Alaska-Oregon Network (AKORN),"3,000 km",Alaska Communications,SubCom,2009 April,2009.0,False,https://www.alaskacommunications.com,,4,United States
+adamasia-cable-system-1,Adamasia Cable System 1,"1,015 km",Solomon Island Submarine Cable Company,SubCom,2027 Q4,2027.0,True,,,1,Solomon Islands
+aden-djibouti,Aden-Djibouti,269 km,"Djibouti Telecom, Orange, Sparkle, Tata Communications, TeleYemen",ASN,1994,1994.0,False,https://www.teleyemen.com.ye/,,2,"Djibouti, Yemen"
+adria-1,Adria-1,440 km,"ALBtelecom, Hrvatski Telekom",ASN,1996 September,1996.0,False,,,3,"Albania, Croatia, Greece"
+aec-1,AEC-1,"5,521 km",EXA Infrastructure,SubCom,2016 January,2016.0,False,https://exainfra.net/,,2,"Ireland, United States"
+africa-1,Africa-1,"10,000 km","G42, Mobily, Pakistan Telecommunications Company Ltd., TeleYemen, Telecom Egypt, Zain Omantel International, e&",ASN,2027,2027.0,True,,,11,"Algeria, Djibouti, Egypt, France, Kenya, Pakistan, Saudi Arabia, Somalia, United Arab Emirates, Yemen"
+africa-coast-to-europe-ace,Africa Coast to Europe (ACE),"17,000 km","Bayobab, Cable Consortium of Liberia, Canalink, Dolphin Telecom, GUILAB, Gambia Submarine Cable Company, International Mauritania Telecom, Orange, Orange Cameroun, Orange Cote d’Ivoire, Orange Mali, Republic of Cameroon, Republic of Equatorial Guinea, Republic of Gabon, Republic of Guinea Bissau, SBIN (Société Béninoise des Infrastructures Numériques du Bénin), STP Cabo, Sierra Leone Cable Company, Sonatel, Zamani Telecom",ASN,2012 December,2012.0,False,,,18,"Benin, Côte d'Ivoire, Equatorial Guinea, France, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Liberia, Mauritania, Nigeria, Portugal, Sao Tome and Principe, Senegal, Sierra Leone, South Africa, Spain"
+airraq,Airraq,840 km,"Unicom, Inc.",,2025 Q1,2025.0,False,https://www.gci.com/bethel-airraq-network,,5,United States
+alaska-united-east-au-east,Alaska United East (AU-East),"3,751 km",GCI Communication Corp,SubCom,1999 February,1999.0,False,https://www.gci.com/,,4,United States
+alaska-united-southeast-au-se,Alaska United Southeast (AU-SE),626 km,GCI Communication Corp,SubCom,2008 November,2008.0,False,https://www.gci.com/,,7,United States
+alaska-united-turnagain-arm-auta,Alaska United Turnagain Arm (AUTA),53 km,GCI Communication Corp,,2012,2012.0,False,https://www.gci.com/,,2,United States
+alaska-united-west-au-west,Alaska United West (AU-West),"2,485 km",GCI Communication Corp,NEC,2004 June,2004.0,False,https://www.gci.com/,,3,United States
+alba-1,ALBA-1,"1,860 km","Telecom Venezuela, Transbit",ASN,2012 August,2012.0,False,,,4,"Cuba, Jamaica, Venezuela"
+aletar,Aletar,787 km,"Liban Telecom, Syrian Telecommunications Establishment, Telecom Egypt",ASN,1997 April,1997.0,False,,,2,"Egypt, Syria"
+almera-melilla-alme,Almería-Melilla (ALME),198 km,Telefonica,Nexans,1990,1990.0,False,https://www.telefonica.com/,,2,Spain
+alonso-de-ojeda,Alonso de Ojeda,122 km,"Setar, United Telecommunication Services (UTS)",ASN,1999,1999.0,False,,,2,"Aruba, Curaçao"
+alpal-2,Alpal-2,312 km,"Algerie Telecom, Orange, Sparkle, Telxius",Prysmian,2002 July,2002.0,False,,,2,"Algeria, Spain"
+america-movil-submarine-cable-system-1-amx-1,America Movil Submarine Cable System-1 (AMX-1),"17,800 km",América Móvil (Claro),ASN,2014,2014.0,False,http://www.americamovil.com,,15,"Brazil, Colombia, Costa Rica, Dominican Republic, Guatemala, Mexico, United States"
+american-1,AmeriCan-1,140 km,"Bell Canada, Ledcor Industries Inc., Rogers Communications, Zayo",,1999 December,1999.0,False,,,5,"Canada, United States"
+americas-i-north,Americas-I North,"2,012 km",AT&T,SubCom,1994 September,1994.0,False,,,2,United States
+americas-ii-west,Americas-II West,217 km,"AT&T, Liberty Networks, Sparkle",SubCom,2000 August,2000.0,False,,,2,"United States, Virgin Islands (U.S.)"
+amerigo-vespucci,Amerigo Vespucci,87 km,Antelecom,ASN,1999,1999.0,False,,,2,"Curaçao, Netherlands"
+amitie,Amitie,"6,792 km","EXA Infrastructure, Meta, Microsoft, Orange, Vodafone",ASN,2023 July,2023.0,False,,,3,"France, United Kingdom, United States"
+andromeda,ANDROMEDA,,"Etisalat Group, Exelera, Grid Telecom",,,,True,,"An integrated terrestrial link is planned to connect the ANDROMEDA landing station in Israel to landing stations at Aqaba and Haql, as well as a dedicated interconnection in Crete to the Apollo East and West systems.",4,"Greece, Israel, Italy, Jordan"
+anjana,Anjana,"7,121 km",Meta,NEC,2026,2026.0,True,https://about.meta.com/,,2,"Spain, United States"
+antigua-st-kitts,Antigua-St.Kitts,141 km,Liberty Networks,ASN,1995,1995.0,False,https://libertynet.com,,2,"Antigua and Barbuda, Saint Kitts and Nevis"
+antillas-1,Antillas 1,601 km,"Altice Dominicana, Antelecom, Claro Dominicana (Codetel), Liberty Networks, Setar",SubCom,1997 June,1997.0,False,,,3,"Dominican Republic, United States"
+apcn-2,APCN-2,"19,000 km","AT&T, BT, China Telecom, China Unicom, Chunghwa Telecom, HKBN, KDDI, KT, LG Uplus, NTT, Orange, PCCW, PLDT, Singtel, Singtel Optus, Softbank, Starhub, Tata Communications, Telekom Malaysia, Telstra, Verizon, Vodafone",NEC,2001 December,2001.0,False,,,10,"China, Japan, Malaysia, Philippines, Singapore, South Korea, Taiwan"
+apocs-1,APOCS 1,,Bell Canada,,1991,1991.0,False,https://www.bce.ca/,,2,Canada
+apocs-2,APOCS 2,,Bell Canada,,1995,1995.0,False,https://www.bce.ca/,,4,Canada
+apollo,Apollo,"13,000 km",Vodafone,ASN,2003 February,2003.0,False,https://www.vodafone.com/business/solutions/by-business-type/carrier-and-infrastructure-provider/submarine-and-terrestrial-cables/apollo,,4,"France, United Kingdom, United States"
+apollo-east-and-west,Apollo East and West,670 km,Grid Telecom,,2025 May,2025.0,False,https://www.grid-telecom.com/,"Apollo East and West are fiber optic cables in parallel (but not attached) to power cables. Each leg is 335 km in length, for a total of 670 km. The cables extend terrestrially to Athens and Pachi in Greece.",2,Greece
+apricot,Apricot,"11,972 km","Chunghwa Telecom, Google, Meta, NTT, PLDT",SubCom,2025 Q4,2025.0,False,,,8,"Guam, Indonesia, Japan, Philippines, Singapore, Taiwan"
+apx-east,APX East,"13,000 km",SUBCO,,2028 Q4,2028.0,True,http://www.subpartners.net,,4,"Australia, Fiji, United States"
+aqualink,Aqualink,,One NZ,,2001 December,2001.0,False,,,11,New Zealand
+arcos,ARCOS,"8,704 km","AT&T, Alestra, Bahamas Telecommunications Company, Belize Telemedia, CANTV, Claro Dominicana (Codetel), Enitel, Hondutel, ICE (Kolbi), Internexa, Liberty Networks, Orbinet Overseas, RACSA, Telecomunicaciones Ultramarinas de Puerto Rico, Telepuerto San Isidro, Tigo Colombia, Tricom USA, United Telecommunication Services (UTS), Verizon","Prysmian, SubCom",2001 December,2001.0,False,https://libertynet.com,,24,"Bahamas, Belize, Colombia, Costa Rica, Curaçao, Dominican Republic, Guatemala, Honduras, Mexico, Nicaragua, Panama, Turks and Caicos Islands, United States, Venezuela"
+arctic-way,Arctic Way,"2,568 km",Space Norway,SubCom,2028 Q2,2028.0,True,https://spacenorway.com/,,4,Norway
+arimao,ARIMAO,"2,470 km","Empresa de Telecomunicaciones de Cuba, Orange",,2023,2023.0,False,,,2,"Cuba, Martinique"
+arsat-submarine-fiber-optic-cable,ARSAT Submarine Fiber Optic Cable,40 km,ARSAT,,2012 Q2,2012.0,False,http://www.arsat.com.ar/,,2,Argentina
+asia-africa-europe-1-aae-1,Asia Africa Europe-1 (AAE-1),"25,000 km","China Unicom, Djibouti Telecom, Hyalroute, Metfone, Mobily, National Telecom, OTEGLOBE, Ooredoo, PCCW, Pakistan Telecommunications Company Ltd., Reliance Jio Infocomm, Retelit, TIME dotCom, TeleYemen, Telecom Egypt, VNPT International, Viettel Corporation, Zain Omantel International, e&","NEC, SubCom",2017 June,2017.0,False,http://www.aaeone.com,,20,"Cambodia, China, Djibouti, Egypt, France, Greece, India, Italy, Malaysia, Myanmar, Oman, Pakistan, Qatar, Saudi Arabia, Thailand, United Arab Emirates, Vietnam, Yemen"
+asia-america-gateway-aag-cable-system,Asia-America Gateway (AAG) Cable System,"20,000 km","AT&T, BT, Bharti Airtel, Eastern Telecom, Ezecom, Globe Telecom, Indosat Ooredoo, National Telecom, PLDT, Saigon Postel Corporation, Spark New Zealand, Starhub, Telekom Malaysia, Telkom Indonesia, Telstra, Unified National Networks (UNN), VNPT International, Viettel Corporation","ASN, NEC",2009 November,2009.0,False,https://asia-america-gateway.com/,,10,"Brunei, China, Guam, Malaysia, Philippines, Singapore, Thailand, United States, Vietnam"
+asia-connect-cable-1-acc-1,Asia Connect Cable-1 (ACC-1),"19,000 km",Inligo Networks,,2028,2028.0,True,http://www.inligonetworks.com/,,10,"Australia, Guam, Indonesia, Philippines, Singapore, Timor-Leste, United States"
+asia-direct-cable-adc,Asia Direct Cable (ADC),"9,988 km","China Telecom, China Unicom, National Telecom, PLDT, Singtel, Softbank, Tata Communications, Viettel Corporation",NEC,2024 December,2024.0,False,,,7,"China, Japan, Philippines, Singapore, Thailand, Vietnam"
+asia-link-cable-alc,Asia Link Cable (ALC),"7,200 km","China Telecom, China Unicom, DITO Telecommunity, FPT Telecom, Globe Telecom, Matrix NAP Info, Singtel, TIME dotCom, Telekom Malaysia, Unified National Networks (UNN), VNPT, Viettel Corporation",HMN Tech,2027 Q1,2027.0,True,,,8,"Brunei, China, Malaysia, Philippines, Singapore, Vietnam"
+asia-pacific-gateway-apg,Asia Pacific Gateway (APG),"10,400 km","China Mobile, China Telecom, China Unicom, Chunghwa Telecom, KT, LG Uplus, Meta, NTT, National Telecom, Starhub, TIME dotCom, VNPT International, Viettel Corporation",NEC,2016 November,2016.0,False,,,11,"China, Japan, Malaysia, Singapore, South Korea, Taiwan, Thailand, Vietnam"
+asia-submarine-cable-express-asecahaya-malaysia,Asia Submarine-cable Express (ASE)/Cahaya Malaysia,"8,148 km","NTT, PLDT, Starhub, Telekom Malaysia",NEC,2012 August,2012.0,False,,"Telekom Malaysia owns two fiber pairs, which it refers to as the Cahaya Malaysia system. NTT, PLDT, and Starhub jointly own the other four fiber pairs.",6,"China, Japan, Malaysia, Philippines, Singapore"
+asia-united-gateway-east-aug-east,Asia United Gateway East (AUG East),"8,900 km","Amazon Web Services, Arteria, Chunghwa Telecom, Dreamline, Globe Telecom, Microsoft, Singtel, Telekom Malaysia, Unified National Networks (UNN)",NEC,2029 Q4,2029.0,True,,,9,"Brunei, Indonesia, Japan, Malaysia, Philippines, Singapore, South Korea, Taiwan"
+atisa,Atisa,279 km,Docomo Pacific,NEC,2017 June,2017.0,False,http://atisa.docomopacific.com,,4,"Guam, Northern Mariana Islands"
+atlantic-crossing-1-ac-1,Atlantic Crossing-1 (AC-1),"14,301 km",Colt,SubCom,1998 May,1998.0,False,,,4,"Germany, Netherlands, United Kingdom, United States"
+atlas-offshore,Atlas Offshore,"1,634 km",Maroc Telecom,ASN,2007 July,2007.0,False,https://www.iam.ma,,2,"France, Morocco"
+au-aleutian,AU-Aleutian,"1,491 km",GCI Communication Corp,,2022 December,2022.0,False,https://www.gci.com/,,14,United States
+aurora,Aurora,500 km,GlobalConnect,Hexatronic,2024 Q1,2024.0,False,https://www.globalconnectcarrier.com/,,12,"Denmark, Germany, Sweden"
+australia-japan-cable-ajc,Australia-Japan Cable (AJC),"12,700 km","AT&T, NTT, Softbank, Telstra, Verizon",SubCom,2001 December,2001.0,False,https://ajcable.com/,,6,"Australia, Guam, Japan"
+australia-singapore-cable-asc,Australia-Singapore Cable (ASC),"4,600 km",Vocus Communications,ASN,2018 September,2018.0,False,https://www.australiasingaporecable.com,,4,"Australia, Christmas Island, Indonesia, Singapore"
+avassa,Avassa,260 km,"Comores Telecom, STOI",HMN Tech,2016 November,2016.0,False,,,4,"Comoros, Mayotte"
+awashima-murakami,Awashima-Murakami,66 km,Awashimaura Village,,2022,2022.0,False,,,2,Japan
+azores-fiber-optic-system-afos,Azores Fiber Optic System (AFOS),"1,100 km",Altice Portugal,Norddeutsche Seekabelwerke GmbH (NSW),1998 July,1998.0,False,,,7,Portugal
+bahamas-2,Bahamas 2,476 km,Bermuda Telephone Company (BTC),SubCom,1997 June,1997.0,False,,,3,"Bahamas, United States"
+bahamas-domestic-submarine-network-bdsni,Bahamas Domestic Submarine Network (BDSNi),"2,735 km",Bahamas Telecommunications Company,SubCom,2006,2006.0,False,http://www.btcbahamas.com,,15,"Bahamas, Haiti"
+bahamas-internet-cable-system-bics,Bahamas Internet Cable System (BICS),"1,100 km",Caribbean Crossings,,2001 July,2001.0,False,https://www.rev.bs/business-solutions/,,7,"Bahamas, United States"
+balalink,Balalink,274 km,IslaLink,,2001 October,2001.0,False,http://www.islalink.es,,2,Spain
+balok,BALOK,60 km,XLSmart,,2016 February,2016.0,False,,,2,Indonesia
+baltic-sea-submarine-cable,Baltic Sea Submarine Cable,"1,042 km",CITIC Telecom International,ASN,2000,2000.0,False,https://www.citictel.com/,,3,"Estonia, Finland, Sweden"
+baltica,Baltica,437 km,"Arelion, Orange Polska, Slovak Telekom, TDC Group, Telenor, Ukrtelecom",,1997 March,1997.0,False,,,4,"Denmark, Poland, Sweden"
+bangladesh-private-cable-system-bpcs,Bangladesh Private Cable System (BPCS),"1,300 km","CdNet Communications, Metacore Subcom, Summit Communications",,2026,2026.0,True,,The Bangladesh Private Cable System (BPCS) will link Bangladesh to a branching unit on the UMO cable.,1,Bangladesh
+barat-timur-indonesia-1-bti-1,Barat Timur Indonesia-1 (BTI-1),"4,500 km",Super Sistem (PT Super Sistem Data),,2028 Q1,2028.0,True,,,6,Indonesia
+barat-timur-indonesia-2-bti-2,Barat Timur Indonesia-2 (BTI-2),"11,600 km",Super Sistem (PT Super Sistem Data),,,,True,,,10,Indonesia
+barracuda,Barracuda,"1,050 km",Valencia Digital Port Connect,,2028 Q2,2028.0,True,https://valenciadigitalport.com/barracuda-infrastructure/,,2,"Italy, Spain"
+bass-strait-1,Bass Strait-1,241 km,Telstra,ASN,1995,1995.0,False,,,2,Australia
+bass-strait-2,Bass Strait-2,239 km,Telstra,ASN,2003,2003.0,False,,,2,Australia
+basslink,Basslink,298 km,Basslink Telecoms,,2005 November,2005.0,False,,,2,Australia
+batam-dumai-melaka-bdm,Batam Dumai Melaka (BDM),353 km,"Moratelindo, Telekom Malaysia",HMN Tech,2009 November,2009.0,False,http://www.moratelindo.co.id,,3,"Indonesia, Malaysia"
+batam-rengit-cable-system-brcs,Batam-Rengit Cable System (BRCS),64 km,XLSmart,,2007 October,2007.0,False,https://www.xl.co.id/,,2,"Indonesia, Malaysia"
+batam-sarawak-internet-cable-system-basics,Batam Sarawak Internet Cable System (BaSICS),762 km,Irix Sdn Bhd,,2021 Q1,2021.0,False,https://www.irix.my/,,2,"Indonesia, Malaysia"
+batam-singapore-cable-system-bscs,Batam Singapore Cable System (BSCS),73 km,Telkom Indonesia,NEC,2009,2009.0,False,,,2,"Indonesia, Singapore"
+bay-of-bengal-gateway-bbg,Bay of Bengal Gateway (BBG),"8,100 km","AT&T, China Telecom, Dialog Axiata, Reliance Jio Infocomm, Telekom Malaysia, Telstra, Vodafone, Zain Omantel International, e&",ASN,2016 Q1,2016.0,False,https://www.bayofbengalgateway.com,,6,"India, Malaysia, Oman, Sri Lanka, United Arab Emirates"
+bcs-east,BCS East,97 km,Arelion,Ericsson,1995,1995.0,False,,,2,"Latvia, Lithuania"
+bcs-east-west-interlink,BCS East-West Interlink,218 km,Arelion,Ericsson,1997 November,1997.0,False,,,2,"Lithuania, Sweden"
+bcs-north---phase-1,BCS North - Phase 1,513 km,Arelion,Ericsson,1998,1998.0,False,,,5,"Finland, Sweden"
+bcs-north---phase-2,BCS North - Phase 2,280 km,Arelion,Ericsson,2000,2000.0,False,,,3,"Finland, Russia"
+beaufort,Beaufort,158 km,"Amazon Web Services, Microsoft, Vodafone",,2027,2027.0,True,,,2,"Ireland, United Kingdom"
+berytar,BERYTAR,134 km,"Lebanese Ministry of Telecommunications, Syrian Telecommunications Establishment",ASN,1997 April,1997.0,False,,,4,"Lebanon, Syria"
+besut-perhentian-islands,Besut-Perhentian Islands,21 km,Telekom Malaysia,,2019,2019.0,False,,,3,Malaysia
+bharat-lanka-cable-system,Bharat Lanka Cable System,325 km,"Bharat Sanchar Nigam Ltd. (BSNL), Sri Lanka Telecom",NEC,2006 June,2006.0,False,,,2,"India, Sri Lanka"
+bicentenario,Bicentenario,250 km,"Antel Uruguay, Telecom Argentina",ASN,2011 December,2011.0,False,,,2,"Argentina, Uruguay"
+bifrost,Bifrost,"19,888 km","Keppel T&T, Meta, Telin",ASN,2025 December,2025.0,False,,,8,"Guam, Indonesia, Mexico, Philippines, Singapore, United States"
+biznet-nusantara-cable-system-1-bncs-1,Biznet Nusantara Cable System-1 (BNCS-1),105 km,Biznet,CCSI,2024 Q1,2024.0,False,https://www.biznetnetworks.com/,,4,Indonesia
+blue,Blue,"5,055 km","Google, Sparkle, Zain Omantel International",ASN,2023,2023.0,False,,,10,"Cyprus, France, Greece, Israel, Italy, Jordan"
+bodo-rost-cable,Bodo-Rost Cable,109 km,Telenor,Nexans,2016,2016.0,False,,,2,Norway
+boracay-palawan-submarine-cable-system-bpscs,Boracay-Palawan Submarine Cable System (BPSCS),332 km,Globe Telecom,HMN Tech,2013 June,2013.0,False,,,5,Philippines
+bosun,Bosun,,Google,SubCom,2029,2029.0,True,https://cloud.google.com,,2,"Australia, Christmas Island"
+botnia,Botnia,93 km,Arelion,ASN,1994,1994.0,False,,,2,"Finland, Sweden"
+brazilian-festoon,Brazilian Festoon,"2,552 km",Embratel,,1996,1996.0,False,http://www.embratel.com.br,,14,Brazil
+brusa,BRUSA,"11,000 km",Telxius,ASN,2018 August,2018.0,False,http://www.telxius.com,,4,"Brazil, United States"
+bt-highlands-and-islands-submarine-cable-system,BT Highlands and Islands Submarine Cable System,402 km,BT,,2014 December,2014.0,False,,,40,United Kingdom
+bt-mt-1,BT-MT-1,80 km,"BT, Manx Telecom",,1990,1990.0,False,,,2,"Isle of Man, United Kingdom"
+bugio,BUGIO,73 km,Altice Portugal,,1996 July,1996.0,False,,,2,Portugal
+bulikula,Bulikula,"21,600 km",Google,SubCom,2026,2026.0,True,https://cloud.google.com,,7,"Fiji, French Polynesia, Guam, Northern Mariana Islands, United States"
+c-lion1,C-Lion1,"1,172 km",Cinia Oy,ASN,2016 March,2016.0,False,https://www.cinia.fi/en/,,3,"Finland, Germany"
+cabo-verde-telecom-domestic-submarine-cable-phase-1,Cabo Verde Telecom Domestic Submarine Cable Phase 1,,Cabo Verde Telecom (CVT),,1997,1997.0,False,https://www.cvtelecom.cv,,5,Cape Verde
+cabo-verde-telecom-domestic-submarine-cable-phase-2,Cabo Verde Telecom Domestic Submarine Cable Phase 2,,Cabo Verde Telecom (CVT),,2002,2002.0,False,https://www.cvtelecom.cv,,3,Cape Verde
+cabo-verde-telecom-domestic-submarine-cable-phase-3,Cabo Verde Telecom Domestic Submarine Cable Phase 3,,Cabo Verde Telecom (CVT),,2011,2011.0,False,https://www.cvtelecom.cv,,8,Cape Verde
+cadmos,CADMOS,230 km,"A1 Telekom Austria, AT&T, Cyta, Deutsche Telekom, Lebanese Ministry of Telecommunications, Orange, Sparkle, Syrian Telecommunications Establishment, Tata Communications",SubCom,1995 September,1995.0,False,,,3,"Cyprus, Lebanon"
+cadmos-2,CADMOS-2,250 km,"Cyta, Lebanese Ministry of Telecommunications",,2026,2026.0,True,,,2,"Cyprus, Lebanon"
+calvi-st-florent,Calvi-St. Florent,64 km,Orange,ASN,1997,1997.0,False,,,2,France
+cam-ring,CAM Ring,"1,120 km",Altice Portugal,ASN,2003,2003.0,False,,,3,Portugal
+canalink,Canalink,"1,835 km",IT3,ASN,2011,2011.0,False,http://www.canalink.tel/,,8,"Morocco, Spain"
+candalta,CANDALTA,110 km,Telefonica,,1999,1999.0,False,,,2,Spain
+candle,Candle,"8,000 km","IPS, Inc., Meta, Softbank, Telekom Malaysia, XLSmart",NEC,2028,2028.0,True,,,7,"Indonesia, Japan, Malaysia, Philippines, Singapore, Taiwan"
+cantat-3,CANTAT-3,270 km,Shefa,ASN,1994 November,1994.0,False,http://www.shefa.fo,,4,Denmark
+caribbean-bermuda-u-s-cbus,Caribbean-Bermuda U.S. (CBUS),"1,700 km","Liberty Networks, Orange",Xtera,2009 October,2009.0,False,,,2,"Bermuda, Virgin Islands (U.K.)"
+caribbean-regional-communications-infrastructure-program-carcip,Caribbean Regional Communications Infrastructure Program (CARCIP),225 km,Digicel,,2019 June,2019.0,False,https://www.digicelgroup.com,,9,"Grenada, Saint Vincent and the Grenadines"
+carnival-submarine-network-1-csn-1,Carnival Submarine Network-1 (CSN-1),"4,670 km",Telconet,ASN,2026 Q4,2026.0,True,https://www.telconet.net/,,6,"Colombia, Ecuador, Mexico, Panama, United States"
+cat-submarine-network-csn,CAT Submarine Network (CSN),"1,240 km",National Telecom,,2013 Q1,2013.0,False,,,2,Thailand
+caucasus-cable-system,Caucasus Cable System,"1,200 km",Caucasus Online,SubCom,2008 November,2008.0,False,http://www.co.ge/en/,,2,"Bulgaria, Georgia"
+cayman-jamaica-fiber-system-cjfs,Cayman-Jamaica Fiber System (CJFS),"1,197 km","CW Cayman, CW Jamaica",ASN,1997 June,1997.0,False,,,6,"Cayman Islands, Jamaica"
+ceiba-1,Ceiba-1,287 km,GITGE (Gestor de Infraestructuras de Telecomunicaciones de Guinea Ecuatorial),,2011 June,2011.0,False,http://www.gitge.com,,2,Equatorial Guinea
+ceiba-2,Ceiba-2,290 km,GITGE (Gestor de Infraestructuras de Telecomunicaciones de Guinea Ecuatorial),HMN Tech,2017,2017.0,False,http://www.gitge.com,,3,"Cameroon, Equatorial Guinea"
+celia,CELIA,"3,700 km","APUA, Orange, Setar, Telxius",ASN,2027 Q3,2027.0,True,,,7,"Antigua and Barbuda, Aruba, Bonaire, Sint Eustatius and Saba, Curaçao, Martinique, United States"
+celtixconnect-1-cc-1,CeltixConnect-1 (CC-1),131 km,EXA Infrastructure,ASN,2012 January,2012.0,False,https://exainfra.net/,,2,"Ireland, United Kingdom"
+challenger-one-bermuda,Challenger One Bermuda,,ATN International,ASN,2024 February,2024.0,False,,,1,Bermuda
+channel-islands-9-liberty-submarine-cable,Channel Islands-9 Liberty Submarine Cable,,JTGlobal,,2008 June,2008.0,False,,,2,"Guernsey, United Kingdom"
+chennai-andaman-nicobar-islands-cable-cani,Chennai-Andaman & Nicobar Islands Cable (CANI),"2,300 km",Bharat Sanchar Nigam Ltd. (BSNL),NEC,2020 August,2020.0,False,http://www.bsnl.co.in,,9,India
+chi,CHI,"3,932 km","Hawaiian Telcom, Verizon","ASN, Fujitsu",2001,2001.0,False,,CHI is the only remaining operational segment of the Japan-U.S. (JUS) Cable Network that was retired in July 2023.,2,United States
+chuuk-pohnpei-cable,Chuuk-Pohnpei Cable,"1,200 km",Federated States of Micronesia Telecommunications Cable Corporation (FSMTCC),NEC,2019 May,2019.0,False,https://fsmcable.com/chuuk,,2,Micronesia
+circe-north,Circe North,203 km,"Zayo, euNetworks",ASN,1999 February,1999.0,False,,,2,"Netherlands, United Kingdom"
+circe-south,Circe South,115 km,"Zayo, euNetworks",ASN,1999 February,1999.0,False,,,2,"France, United Kingdom"
+cobracable,COBRAcable,304 km,Relined,,2019 November,2019.0,False,https://www.tennet.eu/our-projects/international-connections,The COBRAcable is a power cable that also contains a fiber-optic cable with 48 fiber pairs.,2,"Denmark, Netherlands"
+cogim,COGIM,438 km,Télébec,,2005,2005.0,False,,,2,Canada
+colombia-florida-express-cfx-1,Colombia-Florida Express (CFX-1),"2,438 km",Liberty Networks,SubCom,2008 August,2008.0,False,https://libertynet.com/contact,,4,"Colombia, Jamaica, United States"
+colombian-festoon,Colombian Festoon,400 km,,,1997,1997.0,False,,,5,Colombia
+columbus-ii-b,Columbus-II b,"2,068 km","AT&T, Setar",SubCom,1994 December,1994.0,False,,,2,United States
+columbus-iii-azores-portugal,Columbus-III Azores-Portugal,,Altice Portugal,,1999 December,1999.0,False,https://altice.net/altice-international,,2,Portugal
+comoros-domestic-cable-system,Comoros Domestic Cable System,,Comores Telecom,ASN,2010,2010.0,False,,,3,Comoros
+concerto,Concerto,550 km,EXA Infrastructure,ASN,1999,1999.0,False,https://exainfra.net/,,2,"Netherlands, United Kingdom"
+confluence-1,Confluence-1,"2,571 km",Confluence Networks,SubCom,2028,2028.0,True,https://confluencenetworks.net,,5,United States
+connected-coast,Connected Coast,,Connected Coast Network Partnership,,2024,2024.0,False,https://connectedcoast.ca/,,108,Canada
+continente-madeira,Continente-Madeira,"1,179 km",Altice Portugal,,2000 February,2000.0,False,https://altice.net/altice-international,,2,Portugal
+converge-domestic-submarine-cable-network-cdscn,Converge Domestic Submarine Cable Network (CDSCN),"1,300 km",Converge ICT,HMN Tech,2021 Q4,2021.0,False,https://www.convergeict.com,,22,Philippines
+cook-strait,Cook Strait,40 km,Transpower NZ,,2020,2020.0,False,https://www.transpower.co.nz/,,2,New Zealand
+coral-bridge,Coral Bridge,,"NaiTel, Telecom Egypt",,2025 August,2025.0,False,,,2,"Egypt, Jordan"
+coral-sea-cable-system-cs,Coral Sea Cable System (CS²),"4,700 km","PNG DataCo Limited, Solomon Island Submarine Cable Company",ASN,2020 February,2020.0,False,https://coralseacablecompany.com/,,6,"Australia, Papua New Guinea, Solomon Islands"
+corse-continent-4-cc4,Corse-Continent 4 (CC4),190 km,Orange,ASN,1992,1992.0,False,,,2,France
+corse-continent-5-cc5,Corse-Continent 5 (CC5),299 km,Orange,ASN,1995,1995.0,False,,,2,France
+cowes-fawley-2,Cowes-Fawley 2,,BT,,2018,2018.0,False,,,2,United Kingdom
+cross-sound-cable,Cross Sound Cable,40 km,Cross Sound Cable Company,Ericsson,2003,2003.0,False,https://www.crosssoundcable.com/dark-fiber-optics/,,2,United States
+cross-straits-cable-network-cscn,Cross-Straits Cable Network (CSCN),21 km,"China Mobile, China Telecom, China Unicom, Chunghwa Telecom",,2012 August,2012.0,False,,,4,"China, Taiwan"
+crosschannel-fibre,CrossChannel Fibre,149 km,Crosslake Fibre,Hexatronic,2021 December,2021.0,False,http://www.crosslakefibre.ca,,2,"France, United Kingdom"
+crosslake-fibre,Crosslake Fibre,59 km,Crosslake Fibre,Hexatronic,2019 October,2019.0,False,http://www.crosslakefibre.ca,,2,"Canada, United States"
+curie,Curie,"10,476 km",Google,SubCom,2020 Q2,2020.0,False,https://cloud.google.com,,3,"Chile, Panama, United States"
+cyclades-a,Cyclades A,222 km,Grid Telecom,"Hellenic Cables, Prysmian",2018,2018.0,False,,,5,Greece
+cyclades-b,Cyclades B,52 km,Grid Telecom,Hellenic Cables,2020,2020.0,False,,,3,Greece
+daito-loop,Daito Loop,18 km,Okinawa Prefecture,,2025,2025.0,False,,,2,Japan
+dalian-yantai-cable,Dalian-Yantai Cable,146 km,China Telecom,ASN,1998 March,1998.0,False,,,2,China
+damai-cable-system,DAMAI Cable System,575 km,Triasmitra,,2019 July,2019.0,False,http://www.triasmitra.com/,,3,Indonesia
+danica-north,Danica North,25 km,Colt,Ericsson,1998,1998.0,False,,,2,"Denmark, Sweden"
+danice,DANICE,"2,304 km",Farice,SubCom,2009 August,2009.0,False,http://www.farice.is,,2,"Denmark, Iceland"
+daraja,Daraja,"4,108 km","Meta, Safaricom",ASN,2026,2026.0,True,,,2,"Kenya, Oman"
+darwin-jakarta-singapore-cable-djsc,Darwin-Jakarta-Singapore Cable (DJSC),"1,000 km",Vocus Communications,ASN,2023 July,2023.0,False,https://www.vocus.com.au/,,1,Australia
+deep-blue-one,Deep Blue One,"2,250 km",Digicel,ASN,2024 May,2024.0,False,https://www.digicelgroup.com/,,5,"French Guiana, Guyana, Suriname, Trinidad and Tobago"
+denmark-sweden-17,Denmark-Sweden 17,11 km,"TDC Group, Tele2",,1994,1994.0,False,,,2,"Denmark, Sweden"
+denmark-sweden-18,Denmark-Sweden 18,,"TDC Group, Telenor",,1996,1996.0,False,,,2,"Denmark, Sweden"
+denpasar-waingapu-cable-systems,Denpasar-Waingapu Cable Systems,814 km,Moratelindo,,2019,2019.0,False,http://www.moratelindo.co.id,,4,Indonesia
+dhiraagu-cable-network,Dhiraagu Cable Network,"1,253 km",Dhiraagu,NEC,2012 April,2012.0,False,https://www.dhiraagu.com.mv/,,8,Maldives
+dhiraagu-slt-submarine-cable-network,Dhiraagu-SLT Submarine Cable Network,850 km,"Dhiraagu, Sri Lanka Telecom",NEC,2007 February,2007.0,False,https://www.dhiraagu.com.mv/,,2,"Maldives, Sri Lanka"
+dhivaru,Dhivaru,,Google,SubCom,2028,2028.0,True,https://cloud.google.com,,3,"Christmas Island, Maldives, Oman"
+didon,Didon,170 km,"Ooredoo Tunisie, Orange Tunisie",ASN,2014 May,2014.0,False,,,2,"Italy, Tunisia"
+djibouti-africa-regional-express-1-dare-1,Djibouti Africa Regional Express 1 (DARE 1),"4,854 km","Djibouti Telecom, Hormuud Telecom Somalia, Somtel International, Telkom Kenya",SubCom,2021 February,2021.0,False,,,12,"Djibouti, Kenya, Madagascar, Mozambique, Somalia, South Africa, Tanzania"
+domestic-submarine-cable-of-maldives-dscom,Domestic Submarine Cable of Maldives (DSCoM),286 km,"Dhiraagu, Ooredoo Maldives",HMN Tech,2024,2024.0,False,,,8,Maldives
+dos-continentes-l-ll,DOS CONTINENTES l & ll,95 km,GTD España,,2020 March,2020.0,False,http://www.gtdespana.com/,,4,Spain
+dumai-melaka-cable-system-dmcs,Dumai-Melaka Cable System (DMCS),159 km,"Telekom Malaysia, Telkom Indonesia",NEC,2005 February,2005.0,False,https://www.tm.com.my,,2,"Indonesia, Malaysia"
+dunant,Dunant,"6,400 km",Google,SubCom,2021 January,2021.0,False,https://cloud.google.com,,2,"France, United States"
+e-finest,E-FINEST,,Elisa Corporation,,2019 Q4,2019.0,False,,,2,"Estonia, Finland"
+e-llan,E-LLAN,,Manx Electricity Authority,,2007,2007.0,False,,,2,"Isle of Man, United Kingdom"
+e2a,E2A,"12,500 km","Chunghwa Telecom, SK Broadband, Softbank, Verizon",ASN,2029,2029.0,True,,,6,"Japan, South Korea, Taiwan, United States"
+eac-c2c,EAC-C2C,"36,500 km",Telstra,"ASN, KDD-SCS, SubCom",2002 November,2002.0,False,https://www.telstrainternational.com/,,16,"China, Japan, Philippines, Singapore, South Korea, Taiwan"
+eagle,EAGLE,"1,900 km","4iG Group, Telecom Egypt",,2028 Q4,2028.0,True,,,3,"Albania, Egypt, Italy"
+east-micronesia-cable-system-emcs,East Micronesia Cable System (EMCS),"2,250 km","BwebwerikiNET Limited (BNL), Federated States of Micronesia Telecommunications Cable Corporation (FSMTCC), Nauru Fibre Cable Corporation",NEC,2026,2026.0,True,https://www.eastmicronesiacable.com/,,4,"Kiribati, Micronesia, Nauru"
+east-west-cable-ewc,East-West Cable (EWC),"1,705 km",Liberty Networks,Xtera,2011 February,2011.0,False,https://libertynet.com/contact,,3,"Dominican Republic, Jamaica, Virgin Islands (U.K.)"
+east-west-submarine-cable-system,East-West Submarine Cable System,950 km,Sacofa,,2004,2004.0,False,https://www.sacofa.com.my,,4,"Indonesia, Malaysia"
+eastern-africa-submarine-system-eassy,Eastern Africa Submarine System (EASSy),"10,500 km","BT, Bayobab, Bharti Airtel, Botswana Fibre Networks, Comores Telecom, Djibouti Telecom, Liquid Intelligent Technologies, Mauritius Telecom, Orange, Sudatel, Tanzania Telecommunication Corporation, Telkom Kenya, Telkom South Africa, Telma (Telecom Malagasy), Vodacom DRC, WIOCC, Zambia Telecom, center3, e&",ASN,2010 July,2010.0,False,,,9,"Comoros, Djibouti, Kenya, Madagascar, Mozambique, Somalia, South Africa, Sudan, Tanzania"
+eastern-caribbean-fiber-system-ecfs,Eastern Caribbean Fiber System (ECFS),"1,335 km","AT&T, Claro Dominicana (Codetel), Guyana Telephone and Telegraph (GT&T), Liberty Networks, Orange, Verizon",ASN,1995 September,1995.0,False,,,13,"Anguilla, Antigua and Barbuda, Barbados, Dominica, Grenada, Guadeloupe, Martinique, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, Sint Maarten, Trinidad and Tobago, Virgin Islands (U.K.)"
+eastern-light-sweden-finland-i,Eastern Light Sweden-Finland I,,Eastern Light,,2019 October,2019.0,False,https://easternlight.se/,,4,"Finland, Sweden"
+eastern-light-sweden-finland-ii,Eastern Light Sweden-Finland II,,Eastern Light,,2027,2027.0,True,https://easternlight.se/,,4,"Finland, Sweden"
+eaufon-1,EAUFON 1,"1,175 km",Tamaani Internet,ASN,2022 Q1,2022.0,False,http://krg.ca/,,5,Canada
+eaufon-2,EAUFON 2,675 km,Tamaani Internet,ASN,2024 February,2024.0,False,,,6,Canada
+eaufon-3,EAUFON 3,900 km,Tamaani Internet,,2027,2027.0,True,,,7,Canada
+ec-link,EC Link,"1,078 km",Liberty Networks,SubCom,2007 October,2007.0,False,https://libertynet.com,,2,"Curaçao, Trinidad and Tobago"
+echo,Echo,"17,184 km","Google, Meta",NEC,2025,2025.0,False,,,6,"Guam, Indonesia, Palau, Singapore, United States"
+elektra-globalconnect-1-gc1,Elektra-GlobalConnect 1 (GC1),44 km,GlobalConnect,,2000 August,2000.0,False,https://www.globalconnectcarrier.com/,,2,"Denmark, Germany"
+ellalink,EllaLink,"6,200 km",EllaLink,ASN,2021 June,2021.0,False,https://www.ella.link/,,7,"Brazil, Cape Verde, French Guiana, Mauritania, Morocco, Portugal"
+emc-west-1,EMC West-1,"3,639 km",EMC Subsea Cable Company Limited,ASN,2027 December,2027.0,True,,Integrated dual terrestrial links are planned to connect the EMC West-1 landing station in Israel to Haql,5,"Greece, Israel, Italy, Saudi Arabia"
+emc-west-2,EMC West-2,"3,978 km",EMC Subsea Cable Company Limited,ASN,2027 December,2027.0,True,,Integrated dual terrestrial links are planned to connect the EMC West-2 landing station in Israel to Haql,4,"France, Greece, Israel, Saudi Arabia"
+emerald-bridge-fibres,Emerald Bridge Fibres,120 km,Zayo,Nexans,2012 December,2012.0,False,https://zayoeurope.com/,,2,"Ireland, United Kingdom"
+energinet-laeso-varberg,Energinet Laeso-Varberg,,Energinet,,2011,2011.0,False,,,2,"Denmark, Sweden"
+energinet-lyngsa-laeso,Energinet Lyngsa-Laeso,,Energinet,,2011 August,2011.0,False,,,2,Denmark
+energy-bridge-cable,Energy Bridge Cable,13 km,Miranda Media,,2017 July,2017.0,False,,,2,"Russia, Ukraine"
+epic-malta-sicily-cable-system-emscs,Epic Malta-Sicily Cable System (EMSCS),260 km,Epic,ASN,2004 July,2004.0,False,https://epic.com.mt/,,2,"Italy, Malta"
+equiano,Equiano,"15,000 km",Google,ASN,2023 February,2023.0,False,https://cloud.google.com,,6,"Namibia, Nigeria, Portugal, Saint Helena, Ascension and Tristan da Cunha, South Africa, Togo"
+esat-2,ESAT-2,245 km,Esat BT,SubCom,2000,2000.0,False,http://www.fiberatlantic.com/system/KrQqY,,2,"Ireland, United Kingdom"
+est-tet,Est-Tet,113 km,"Maroc Telecom, Telxius",STC Submarine Systems,1994 July,1994.0,False,,,2,"Morocco, Spain"
+europe-india-gateway-eig,Europe India Gateway (EIG),"15,000 km","AT&T, Altice Portugal, BT, Bayobab, Bharat Sanchar Nigam Ltd. (BSNL), Bharti Airtel, Djibouti Telecom, Gibtelecom, Kalaam Telecom, Libya International Telecommunications Company, Telecom Egypt, Telkom South Africa, Verizon, Vodafone, Zain Omantel International, center3, du","ASN, SubCom",2011 February,2011.0,False,,,12,"Djibouti, Egypt, Gibraltar, India, Libya, Monaco, Oman, Portugal, Saudi Arabia, United Arab Emirates, United Kingdom"
+eviny-digital,Eviny Digital,210 km,Lyse Tele AS,,2020 Q2,2020.0,False,https://www.lyse.no/,,3,Norway
+exa-express,EXA Express,"4,600 km",EXA Infrastructure,SubCom,2015 September,2015.0,False,https://exainfra.net/,,3,"Canada, Ireland, United Kingdom"
+exa-north-and-south,EXA North and South,"12,200 km",EXA Infrastructure,SubCom,2001 April,2001.0,False,https://exainfra.net/,,5,"Canada, Ireland, United Kingdom, United States"
+exelera-north,Exelera North,345 km,Exelera,,2012 January,2012.0,False,https://www.exelera.net/,,2,"Cyprus, Israel"
+falcon,FALCON,"10,300 km",FLAG,ASN,2006 September,2006.0,False,https://flagtel.com/,,19,"Bahrain, Egypt, India, Iran, Iraq, Kuwait, Maldives, Oman, Qatar, Saudi Arabia, Sri Lanka, Sudan, United Arab Emirates, Yemen"
+far-east-submarine-cable-system,Far East Submarine Cable System,"1,855 km",Rostelecom,HMN Tech,2016 Q2,2016.0,False,https://www.company.rt.ru/,,3,Russia
+farewell-change-fogo,Farewell-Change-Fogo,16 km,Bell Canada,,2025 August,2025.0,False,,,3,Canada
+farice-1,FARICE-1,"1,205 km",Farice,Prysmian,2004 January,2004.0,False,http://www.farice.is,,3,"Faroe Islands, Iceland, United Kingdom"
+farland-north,Farland North,150 km,BT,,1998,1998.0,False,,,2,"Netherlands, United Kingdom"
+faster,FASTER,"11,629 km","China Mobile, China Telecom, Google, KDDI, Singtel, TIME dotCom",NEC,2016 June,2016.0,False,,,4,"Japan, Taiwan, United States"
+fastnet,Fastnet,,Amazon Web Services,,2028,2028.0,True,https://aws.amazon.com/,,2,"Ireland, United States"
+fea,FEA,,FLAG,SubCom,1997 November,1997.0,False,https://flagtel.com/,,8,"Egypt, India, Jordan, Malaysia, Saudi Arabia, Thailand, United Arab Emirates"
+fehmarn-blt,Fehmarn Bält,20 km,Arelion,Ericsson,2000,2000.0,False,,,2,"Denmark, Germany"
+fiber-optic-gulf-fog,Fiber Optic Gulf (FOG),"1,300 km","Bahrain Telecommunications Company (Batelco), Kuwait Ministry of Communications, Ooredoo, e&",Fujitsu,1998 June,1998.0,False,,,4,"Bahrain, Kuwait, Qatar, United Arab Emirates"
+fibra-optica-al-pacfico,Fibra Optica al Pacífico,"1,180 km",Entel Bolivia,HMN Tech,2020 September,2020.0,False,https://www.entel.bo/,,2,Peru
+fibra-optica-austral,Fibra Optica Austral,"2,800 km",Subtel,HMN Tech,2020 Q1,2020.0,False,https://fibraopticaaustral.cl/,,4,Chile
+fibralink,Fibralink,"1,102 km",Liberty Networks,ASN,2006 March,2006.0,False,https://libertynet.com,,5,"Dominican Republic, Haiti, Jamaica"
+fibre-in-gulf-fig,Fibre in Gulf (FIG),"1,931 km",Ooredoo,ASN,2027 December,2027.0,True,https://www.ooredoo.com/,,7,"Bahrain, Iraq, Kuwait, Oman, Qatar, Saudi Arabia, United Arab Emirates"
+finland-estonia-2-eesf-2,Finland-Estonia 2 (EESF-2),98 km,"Arelion, Telia Eesti (formerly Eesti Telekom, EMT, Elion)",,1992,1992.0,False,,,2,"Estonia, Finland"
+finland-estonia-3-eesf-3,Finland-Estonia 3 (EESF-3),104 km,"Arelion, Telia Eesti (formerly Eesti Telekom, EMT, Elion)",,1994,1994.0,False,,,2,"Estonia, Finland"
+finland-estonia-connection-1-fec-1,Finland Estonia Connection 1 (FEC-1),,Elisa Corporation,ASN,2000 January,2000.0,False,http://www.elisa.com,,2,"Estonia, Finland"
+finland-estonia-connection-2-fec-2,Finland Estonia Connection 2 (FEC-2),,Elisa Corporation,ASN,2000,2000.0,False,http://www.elisa.com,,2,"Estonia, Finland"
+firmina,Firmina,"14,517 km",Google,SubCom,2025,2025.0,False,https://cloud.google.com,,4,"Argentina, Brazil, United States, Uruguay"
+fish-north,FISH North,90 km,Cordova Telecom Cooperative,,2011,2011.0,False,https://www.ctcak.net/,,2,United States
+fish-south,FISH South,900 km,Cordova Telecom Cooperative,"Prysmian, Xtera",2027,2027.0,True,https://www.ctcak.net/,,6,United States
+fish-west,FISH West,276 km,Cordova Telecom Cooperative,Prysmian,2027,2027.0,True,https://www.ctcak.net/,,4,United States
+flag-atlantic-1-fa-1,FLAG Atlantic-1 (FA-1),"14,500 km",FLAG,ASN,2001 June,2001.0,False,https://flagtel.com/,,4,"France, United Kingdom, United States"
+flag-north-asia-loopreach-north-asia-loop,FLAG North Asia Loop/REACH North Asia Loop,"9,504 km","FLAG, PCCW, Telstra","ASN, Fujitsu",2001 June,2001.0,False,,"FLAG owns 3 fiber pairs which it refers to as FLAG North Asia Loop. Of the three remaining fiber pairs comprising the REACH North Asia Loop, Telstra owns one fiber pair, PCCW owns one fiber pair, with the final fiber pair is jointly owned by Telstra and PCCW",4,"China, Japan, South Korea, Taiwan"
+flores-corvo-cable-system,Flores-Corvo Cable System,685 km,Viatel,HMN Tech,2014 January,2014.0,False,http://www.viatel.pt,,4,Portugal
+fly-lion3,FLY-LION3,400 km,"Comoros Cables, Orange, Société Réunionnaise du Radiotéléphone",ASN,2019 October,2019.0,False,,,2,"Comoros, Mayotte"
+fos-quellon-chacabuco,FOS Quellon-Chacabuco,350 km,Grupo Gtd,,2015 January,2015.0,False,https://www.gtd.cl,,2,Chile
+gc-lnz-fu-ring,GC-LNZ-FU Ring,553 km,Canalink,,2028 Q1,2028.0,True,,,6,Spain
+gemini-bermuda,Gemini Bermuda,"1,501 km","Liberty Networks, Orange","Orange Marine, Xtera",2007 October,2007.0,False,,,2,"Bermuda, United States"
+geo-eirgrid,Geo-Eirgrid,187 km,Eirgrid,Nexans,2012 December,2012.0,False,http://www.zayo.com,,2,"Ireland, United Kingdom"
+georgia-russia,Georgia-Russia,433 km,"FOPTNET, GEO-METRIA, Rostelecom",ASN,2000 December,2000.0,False,https://www.company.rt.ru/,,3,"Georgia, Russia"
+germany-denmark-3,Germany-Denmark 3,,TDC Group,,2000 March,2000.0,False,,,2,"Denmark, Germany"
+glo-1,Glo-1,"9,800 km",Globacom Limited,ASN,2010 October,2010.0,False,https://www.gloworld.com,,3,"Ghana, Nigeria, United Kingdom"
+global-caribbean-network-gcn,Global Caribbean Network (GCN),890 km,Loret Group,,2006 September,2006.0,False,https://groupeloret.net/brand/global-caribbean-network/,,6,"Guadeloupe, Saint Barthélemy, Saint Martin, United States, Virgin Islands (U.S.)"
+globalconnect-2-gc2,GlobalConnect 2 (GC2),95 km,GlobalConnect,,2001 August,2001.0,False,https://www.globalconnectcarrier.com/,,2,"Denmark, Sweden"
+globalconnect-3-gc3,GlobalConnect 3 (GC3),19 km,GlobalConnect,,2006,2006.0,False,https://www.globalconnectcarrier.com/,,2,Denmark
+globalconnect-6-gc6,GlobalConnect 6 (GC6),,GlobalConnect,Hexatronic,2019,2019.0,False,https://globalconnectcarrier.com/,,2,Denmark
+globalconnect-denmark-sweden,GlobalConnect Denmark-Sweden,,GlobalConnect,,1994,1994.0,False,,,2,"Denmark, Sweden"
+globalconnect-kpn,GlobalConnect-KPN,43 km,GlobalConnect,,2006,2006.0,False,https://www.globalconnectcarrier.com/,,2,"Denmark, Germany"
+globenet,GlobeNet,"23,500 km",V.tal,ASN,2000 October,2000.0,False,https://www.vtal.com/en/home/,,7,"Bermuda, Brazil, Colombia, United States, Venezuela"
+go-1-mediterranean-cable-system,GO-1 Mediterranean Cable System,290 km,GO plc,ASN,2008 December,2008.0,False,https://www.go.com.mt/business,,2,"Italy, Malta"
+gondwana-1,Gondwana-1,"2,151 km",OPT,ASN,2008 September,2008.0,False,https://www.opt.nc/,,2,"Australia, New Caledonia"
+gondwana-2picot-2,Gondwana-2/Picot-2,"1,515 km",OPT,ASN,2022 August,2022.0,False,https://www.opt.nc/,,7,"Fiji, New Caledonia"
+grace-hopper,Grace Hopper,"7,191 km",Google,SubCom,2022 September,2022.0,False,https://cloud.google.com,,3,"Spain, United Kingdom, United States"
+grand-bahama-bimini-submarine-cable,Grand Bahama Bimini Submarine Cable,117 km,Bahamas Telecommunications Company,,2005,2005.0,False,,,2,Bahamas
+greenland-connect,Greenland Connect,"4,580 km",Tusass A/S,ASN,2009 March,2009.0,False,https://www.tusass.gl/,,4,"Canada, Greenland, Iceland"
+greenland-connect-north,Greenland Connect North,680 km,Tusass A/S,ASN,2017 December,2017.0,False,https://www.tusass.gl/,,4,Greenland
+groix-4,Groix 4,7 km,Orange,Prysmian,2022,2022.0,False,,Groix 4 is a hybrid cable that contains a power cable owned by Enedis alongside 24 fiber pairs operated by Orange.,2,France
+groote-eylandt,Groote Eylandt,95 km,Telstra,,2011,2011.0,False,,,2,Australia
+gtmo-1,GTMO-1,"1,528 km",U.S. Government,Xtera,2016,2016.0,False,,,2,"Cuba, United States"
+gtmo-pr,GTMO-PR,"1,400 km",U.S. Government,Xtera,2019 April,2019.0,False,,,2,"Cuba, United States"
+guadeloupe-cable-des-iles-du-sud-gcis,Guadeloupe Cable des Iles du Sud (GCIS),118 km,Regional Councel of Guadeloupe,,2020,2020.0,False,https://www.regionguadeloupe.fr/accueil/#_,,5,Guadeloupe
+guam-okinawa-kyushu-incheon-goki,Guam Okinawa Kyushu Incheon (GOKI),"4,244 km",AT&T,Xtera,2013 December,2013.0,False,http://www.att.com,,3,"Guam, Japan"
+guernsey-jersey-4,Guernsey-Jersey-4,36 km,Sure,,1994 January,1994.0,False,,,2,"Guernsey, Jersey"
+gulf-bridge-international-cable-systemmiddle-east-north-africa-cable-system-gbicsmena,Gulf Bridge International Cable System/Middle East North Africa Cable System (GBICS/MENA),"5,270 km",Gulf Bridge International,SubCom,2012 February,2012.0,False,http://www.gbiinc.com,"GBI owns the entire system. Telecom Egypt owns one of the fiber pairs from the branching unit near Oman to Mumbai which it acquired from the MENA Cable Company. GBI owns one fiber pair on the MENA cable, which links Oman to Italy.",9,"Bahrain, India, Iran, Iraq, Kuwait, Oman, Qatar, Saudi Arabia, United Arab Emirates"
+gulf-of-california-cable,Gulf of California Cable,250 km,Megacable,HMN Tech,2019 Q4,2019.0,False,https://www.megacable.com.mx/,,2,Mexico
+gulf-of-mexico-fiber-optic-network,Gulf of Mexico Fiber Optic Network,"1,200 km",Tampnet,SubCom,2008,2008.0,False,https://www.tampnet.com/,,2,United States
+gulf2africa-g2a,Gulf2Africa (G2A),"1,500 km","Golis Telecommunications, Telesom, Zain Omantel International",HMN Tech,2017 December,2017.0,False,,,3,"Oman, Somalia"
+hachijojima-mainland,Hachijojima-Mainland,,NTT,,2008,2008.0,False,,,2,Japan
+haikou-beihai-cable,Haikou-Beihai Cable,198 km,China Telecom,ASN,1999,1999.0,False,,,2,China
+hainan-to-hong-kong-express-h2he,Hainan to Hong Kong Express (H2HE),675 km,China Mobile,HMN Tech,2021 September,2021.0,False,https://www.chinamobileltd.com/en/global/home.php,,3,China
+halaihai,Halaihai,"17,483 km",Google,SubCom,2029,2029.0,True,https://cloud.google.com,,5,"Chile, French Polynesia, Guam, Northern Mariana Islands"
+hannibal-system,HANNIBAL System,178 km,Tunisia Telecom,HMN Tech,2009 October,2009.0,False,http://www.tunisietelecom.tn,,2,"Italy, Tunisia"
+hantru1-cable-system,HANTRU1 Cable System,"2,917 km","Federated States of Micronesia Telecommunications Cable Corporation (FSMTCC), Hannon Armstrong, Marshall Islands Telecommunications Authority",SubCom,2010 March,2010.0,False,,,4,"Guam, Marshall Islands, Micronesia"
+havfrueaec-2,Havfrue/AEC-2,"7,650 km","Bulk Infrastructure, EXA Infrastructure, Google, Meta",SubCom,2020 November,2020.0,False,,"EXA Infrastructure acts as the overall system administrator for the Havfrue cable, and has dubbed the portion of the cable where it has ownership (Denmark, Ireland, and U.S. segments) as AEC-2. Bulk Infrastructure is the Norwegian landing party for Havfrue.",4,"Denmark, Ireland, Norway, United States"
+havhingstenceltixconnect-2-cc-2,Havhingsten/CeltixConnect-2 (CC-2),301 km,"Bulk Infrastructure, EXA Infrastructure, Meta",ASN,2022 March,2022.0,False,,,4,"Ireland, Isle of Man, United Kingdom"
+havhingstennorth-sea-connect-nsc,Havhingsten/North Sea Connect (NSC),661 km,"Bulk Infrastructure, EXA Infrastructure, Meta",ASN,2022 March,2022.0,False,,,2,"Denmark, United Kingdom"
+havsil,Havsil,120 km,Bulk Infrastructure,,2022 March,2022.0,False,http://bulkinfrastructure.com/,,2,"Denmark, Norway"
+hawaii-inter-island-cable-system-hics,Hawaii Inter-Island Cable System (HICS),479 km,Hawaiian Telcom,,1994 July,1994.0,False,,,5,United States
+hawaii-island-fibre-network-hifn,Hawaii Island Fibre Network (HIFN),529 km,"Hawaiian Telcom, Lumen",,1997 June,1997.0,False,,,7,United States
+hawaiian-islands-fiber-link-hifl,Hawaiian Islands Fiber Link (HIFL),740 km,"Ocean Networks, University of Hawai’i",Prysmian,2026 December,2026.0,True,https://www.oceannetworks.com/,,6,United States
+hawaiki,Hawaiki,"14,000 km",BW Digital,SubCom,2018 July,2018.0,False,https://www.bw-digital.com/,,6,"American Samoa, Australia, New Zealand, Tonga, United States"
+hawaiki-nui-1,Hawaiki Nui 1,"10,000 km",BW Digital,ASN,2027,2027.0,True,https://www.bw-digital.com/,,9,"Australia, Indonesia, Papua New Guinea, Singapore, Solomon Islands, Timor-Leste"
+hawk,Hawk,"3,400 km",FLAG,Fujitsu,2011,2011.0,False,https://flagtel.com/,,3,"Cyprus, Egypt, France"
+high-capacity-undersea-guernsey-optical-fibre-hugo,High-capacity Undersea Guernsey Optical-fibre (HUGO),425 km,"Sure, Vodafone",Xtera,2007,2007.0,False,,,4,"France, Guernsey, United Kingdom"
+hokkaido-akita-cable,Hokkaido-Akita Cable,770 km,"KDDI, NTT, Rakuten, Softbank",NEC,2023 Q4,2023.0,False,,,2,Japan
+hokkaido-rebun-rishiri,Hokkaido-Rebun-Rishiri,64 km,NTT,,2011,2011.0,False,,,3,Japan
+hokkaido-sakhalin-cable-system-hscs,Hokkaido-Sakhalin Cable System (HSCS),570 km,"NTT, TTK",NEC,2008 July,2008.0,False,,,2,"Japan, Russia"
+honomoana,Honomoana,"15,215 km",Google,SubCom,2026,2026.0,True,https://cloud.google.com,,6,"Australia, French Polynesia, New Zealand, United States"
+honotua,Honotua,"4,805 km",OPT French Polynesia,ASN,2010 September,2010.0,False,http://www.opt.pf,,6,"French Polynesia, United States"
+hronn,Hronn,270 km,Shefa,,2022 September,2022.0,False,https://www.shefa.fo/cables/,,3,Denmark
+i-am-cable,I-AM Cable,"8,100 km","Intra‑Asia Marine Networks Co., Ltd.",ASN,2029,2029.0,True,,,6,"Japan, Malaysia, Singapore, South Korea"
+i2i-cable-network-i2icn,i2i Cable Network (i2icn),"3,200 km",Bharti Airtel,ASN,2002 April,2002.0,False,http://www.airtel.in,,2,"India, Singapore"
+iceni,Iceni,,BT,SubCom,2024,2024.0,False,,,2,"Netherlands, United Kingdom"
+imewe,IMEWE,"12,091 km","Bharti Airtel, Ogero, Orange, Pakistan Telecommunications Company Ltd., Sparkle, Tata Communications, Telecom Egypt, center3, e&","ASN, NEC",2010 December,2010.0,False,https://imewecable.com/,,9,"Egypt, France, India, Italy, Lebanon, Pakistan, Saudi Arabia, United Arab Emirates"
+india-asia-xpress-iax,India Asia Xpress (IAX),"5,791 km","China Mobile, Reliance Jio Infocomm",SubCom,2024 Q4,2024.0,False,,The cable has other owners besides Reliance Jio and China Mobile who have yet to be disclosed.,9,"India, Malaysia, Maldives, Singapore, Sri Lanka, Thailand"
+india-europe-xpress-iex,India Europe Xpress (IEX),"9,775 km","China Mobile, Reliance Jio Infocomm",SubCom,2026 Q3,2026.0,True,,The cable has other owners besides Reliance Jio and China Mobile who have yet to be disclosed.,11,"Djibouti, Egypt, France, Greece, India, Italy, Oman, Saudi Arabia"
+indigo-central,INDIGO-Central,"4,850 km","Australia’s Academic and Research Network (AARNET), Google, Indosat Ooredoo, Singtel Optus, Superloop",ASN,2019 May,2019.0,False,,,2,Australia
+indigo-west,INDIGO-West,"4,600 km","Australia’s Academic and Research Network (AARNET), Google, Indosat Ooredoo, Singtel, Superloop, Telstra",ASN,2019 May,2019.0,False,,,3,"Australia, Indonesia, Singapore"
+indonesia-global-gateway-igg-system,Indonesia Global Gateway (IGG) System,"5,300 km","Telin, Telkom Indonesia",NEC,2018 May,2018.0,False,https://www.telin.net/,,10,"Indonesia, Singapore"
+indonesia-tengah-cable-systems,Indonesia Tengah Cable Systems,"2,641 km","PT Jejaring Mitra Persada, Triasmitra",,2027 Q4,2027.0,True,,,10,Indonesia
+ingrid,INGRID,64 km,CIEG,,2004 October,2004.0,False,,,4,"France, Guernsey, Jersey"
+insica,INSICA,100 km,"Singtel, Telin",,2026 Q4,2026.0,True,,,2,"Indonesia, Singapore"
+interchange-cable-network-1-icn1,Interchange Cable Network 1 (ICN1),"1,259 km",Interchange,ASN,2014 January,2014.0,False,http://www.interchange.vu,,2,"Fiji, Vanuatu"
+ioema-1,IOEMA-1,"1,667 km",IOEMA Fibre,,2029,2029.0,True,https://ioemafibre.eu/,,7,"Denmark, Germany, Netherlands, Norway, United Kingdom"
+ionian,Ionian,320 km,IslaLink,,2023 April,2023.0,False,http://www.islalink.com/,,2,"Greece, Italy"
+iris,IRIS,"1,770 km",Farice,SubCom,2023 March,2023.0,False,http://www.farice.is,,2,"Iceland, Ireland"
+isle-au-haut-cable,Isle Au Haut Cable,10 km,Axiom Technologies,SubCom,2024 November,2024.0,False,,,2,United States
+isles-of-scilly-cable,Isles of Scilly Cable,,BT,,2014,2014.0,False,,,2,United Kingdom
+israel-coasting-1-ic-1,Israel Coasting 1 (IC-1),340 km,Partner Communications Company,Prysmian,2000 September,2000.0,False,,,7,Israel
+italy-albania,Italy-Albania,240 km,"ALBtelecom, Sparkle",,1997,1997.0,False,,,2,"Albania, Italy"
+italy-croatia,Italy-Croatia,230 km,"Hrvatski Telekom, Sparkle",,1994,1994.0,False,,,2,"Croatia, Italy"
+italy-greece-1-ig-1,Italy-Greece 1 (IG-1),169 km,WIS Telecom,,1995,1995.0,False,http://www.wis.one,,2,"Greece, Italy"
+italy-libya,Italy-Libya,570 km,"Libya International Telecommunications Company, Sparkle",ASN,1998,1998.0,False,,,2,"Italy, Libya"
+italy-malta,Italy-Malta,238 km,"GO plc, Sparkle",ASN,1994,1994.0,False,,,2,"Italy, Malta"
+italy-monaco,Italy-Monaco,162 km,"Monaco Telecom, Sparkle",Prysmian,1995,1995.0,False,,,2,"Italy, Monaco"
+ithaafushi-maafushi-hulhumale,Ithaafushi-Maafushi-Hulhumale,,Ooredoo Maldives,,2025 August,2025.0,False,,,3,Maldives
+ixchel,Ixchel,20 km,Telmex,ASN,2007 August,2007.0,False,https://telmex.com/,,2,Mexico
+izu-islands-cable-system,Izu Islands Cable System,,NTT,,1996,1996.0,False,,,4,Japan
+jaka2ladema,JaKa2LaDeMa,"1,700 km",Telkom Indonesia,"Fujitsu, Norddeutsche Seekabelwerke GmbH (NSW)",2010,2010.0,False,,,10,Indonesia
+jakabare,JAKABARE,"1,330 km",Indosat Ooredoo,NEC,2009 November,2009.0,False,https://indosatooredoo.com,,4,"Indonesia, Singapore"
+jakarta-bangka-batam-singapore-b2js,Jakarta-Bangka-Batam-Singapore (B2JS),759 km,Triasmitra,,2013 Q2,2013.0,False,,,5,"Indonesia, Singapore"
+jakarta-bangka-bintan-batam-singapore-b3js,Jakarta-Bangka-Bintan-Batam-Singapore (B3JS),"1,031 km",Moratelindo,,2012 November,2012.0,False,http://www.moratelindo.co.id,,6,"Indonesia, Singapore"
+jakarta-surabaya-cable-system-jayabaya,Jakarta Surabaya Cable System (JAYABAYA),888 km,Triasmitra,,2018 December,2018.0,False,http://www.triasmitra.com/,,4,Indonesia
+jako,JAKO,260 km,"Amazon Web Services, Arteria, Dreamline, Microsoft",LS Cable & System,2027 Q3,2027.0,True,,,2,"Japan, South Korea"
+jalapati,Jalapati,45 km,CCSI,CCSI,2023 Q1,2023.0,False,https://www.ccsi.co.id/home-id-jalapati/,,2,Indonesia
+jamaica-submarine-cable-festoon-system-jscfs,Jamaica Submarine Cable Festoon System (JSCFS),342 km,CW Jamaica,,1997,1997.0,False,,,4,Jamaica
+jambi-batam-cable-system-jiba,Jambi-Batam Cable System (JIBA),267 km,"Indosat Ooredoo, Moratelindo, XLSmart",,2014,2014.0,False,http://www.moratelindo.co.id,,2,Indonesia
+janna,Janna,634 km,"EXA Infrastructure, Regione Sardegne, Tiscali, WINDTRE",Norddeutsche Seekabelwerke GmbH (NSW),2005 April,2005.0,False,,,4,Italy
+japan-guam-australia-north-jga-n,Japan-Guam-Australia North (JGA-N),"2,600 km",Lightstorm Telecom,NEC,2020 July,2020.0,False,https://www.lightstorm.net/,,2,"Guam, Japan"
+japan-guam-australia-south-jga-s,Japan-Guam-Australia South (JGA-S),"7,081 km","Australia’s Academic and Research Network (AARNET), Google, Lightstorm Telecom",ASN,2020 March,2020.0,False,https://www.lightstorm.net/,,3,"Australia, Guam"
+japan-information-highway-jih,Japan Information Highway (JIH),"5,150 km",KDDI,NEC,1999,1999.0,False,,,9,Japan
+jasuka,JaSuKa,,Telkom Indonesia,NEC,2006,2006.0,False,https://www.telkom.co.id/,,7,Indonesia
+java-bali-cable-system-jbcs,Java Bali Cable System (JBCS),,Triasmitra,,2013,2013.0,False,http://www.triasmitra.com/,,2,Indonesia
+java-kalimantan-sulawesi-jakasusi,Java-Kalimantan-Sulawesi (JAKASUSI),"1,100 km",Indosat Ooredoo,ASN,2006,2006.0,False,https://indosatooredoo.com/,,3,Indonesia
+javali,JAVALI,,Indosat Ooredoo,Norddeutsche Seekabelwerke GmbH (NSW),2011 December,2011.0,False,,,2,Indonesia
+jeju-mainland-2,Jeju-Mainland 2,191 km,KT,NEC,1996,1996.0,False,,,2,South Korea
+jeju-mainland-3,Jeju-Mainland 3,236 km,KT,NEC,2000,2000.0,False,,,2,South Korea
+jeju-udo,Jeju-Udo,3 km,"KCTV Jeju Broadcasting, KT, LG Uplus, SK Telecom (SKT)",,2023 December,2023.0,False,,,2,South Korea
+jerry-newton,Jerry Newton,88 km,Liberty Networks,SubCom,2007 October,2007.0,False,https://libertynet.com,,2,"Bonaire, Sint Eustatius and Saba, Curaçao"
+jonah,Jonah,"2,297 km",Bezeq International Ltd.,ASN,2012 January,2012.0,False,https://www.bezeqint.net/,,2,"Israel, Italy"
+junior,Junior,390 km,Google,Padtec,2018 Q3,2018.0,False,https://cloud.google.com,,2,Brazil
+juno,JUNO,"11,710 km",Seren Juno,NEC,2025 May,2025.0,False,https://seren-juno.com/,,3,"Japan, United States"
+jupiter,JUPITER,"14,557 km","Amazon Web Services, Meta, NTT, PCCW, PLDT, Softbank",SubCom,2020,2020.0,False,,,5,"Japan, Philippines, United States"
+kafos,KAFOS,538 km,Turk Telekom International,ASN,1997 June,1997.0,False,,,4,"Bulgaria, Romania, Turkey"
+kanawa,Kanawa,"1,746 km",Orange,ASN,2019 January,2019.0,False,,,2,"French Guiana, Martinique"
+kangaroo-island-2,Kangaroo Island 2,,SA Power Networks,,2024 July,2024.0,False,,,2,Australia
+kardesa,Kardesa,"1,385 km","Neqsol Holding, Vodafone",Xtera,2027,2027.0,True,,,4,"Bulgaria, Georgia, Turkey, Ukraine"
+kattegat-2,Kattegat 2,75 km,TDC Group,,2001,2001.0,False,,,4,"Denmark, Sweden"
+kattegat-cable,Kattegat Cable,92 km,GlobalConnect,,2027 Q4,2027.0,True,www.globalconnectcarrier.com,,2,"Denmark, Sweden"
+kerch-strait-cable,Kerch Strait Cable,46 km,Miranda Media,,2014 April,2014.0,False,,,2,"Russia, Ukraine"
+ketchcan1-submarine-fiber-cable-system,KetchCan1 Submarine Fiber Cable System,167 km,Ketchican Public Utilities,,2020 November,2020.0,False,https://www.kputel.com/,,2,"Canada, United States"
+kingisepp-kaliningrad-system-baltika,Kingisepp-Kaliningrad System (Baltika),"1,115 km",Rostelecom,,2021,2021.0,False,https://www.company.rt.ru/en/,,2,Russia
+kitadaito-island,Kitadaito Island,410 km,Okinawa Prefecture,,2022,2022.0,False,,,2,Japan
+kochi-lakshadweep-islands-kli-sofc,Kochi-Lakshadweep Islands (KLI-SOFC),"1,989 km",Bharat Sanchar Nigam Ltd. (BSNL),NEC,2024 January,2024.0,False,http://www.bsnl.co.in,,12,India
+kodiak-kenai-fiber-link-kkfl,Kodiak Kenai Fiber Link (KKFL),966 km,GCI Communication Corp,ASN,2007 January,2007.0,False,https://www.gci.com/,,6,United States
+konstanz-friedrichshafen,Konstanz-Friedrichshafen,26 km,Stadtwerke Konstanz,,2007,2007.0,False,,,2,Germany
+konstanz-meersburg,Konstanz-Meersburg,5 km,Stadtwerke Konstanz,,2010 Q4,2010.0,False,,,2,Germany
+korea-japan-cable-network-kjcn,Korea-Japan Cable Network (KJCN),500 km,"KT, NTT, QTNet, Softbank","ASN, Fujitsu",2002 March,2002.0,False,,,3,"Japan, South Korea"
+kumul-domestic-submarine-cable-system,Kumul Domestic Submarine Cable System,"5,457 km",PNG DataCo Limited,HMN Tech,2019 February,2019.0,False,https://www.pngdataco.com/,,15,"Indonesia, Papua New Guinea"
+kupang-alor-cable-systems,Kupang-Alor Cable Systems,273 km,Moratelindo,,2019,2019.0,False,http://moratelindo.co.id,,2,Indonesia
+kuwait-iran,Kuwait-Iran,380 km,"Kuwait Ministry of Communications, Telecommunication Infrastructure Company of Iran",Prysmian,2005 June,2005.0,False,,,4,"Iran, Kuwait"
+la-gomera-el-hierro,La Gomera-El Hierro,,Telefonica,,,,False,,,2,Spain
+labuan-brunei-submarine-cable,Labuan-Brunei Submarine Cable,52 km,Common Tower Technologies Sdn Bhd,,2017 April,2017.0,False,http://www.cttsb.com.my,,2,"Brunei, Malaysia"
+lake-albert-1,Lake Albert 1,51 km,Bandwidth and Cloud Services (BCS),,2019,2019.0,False,https://www.bcs-ea.com/,,2,"Congo, Dem. Rep., Uganda"
+lake-albert-2,Lake Albert 2,44 km,Bandwidth and Cloud Services (BCS),,2020,2020.0,False,https://www.bcs-ea.com/,,2,"Congo, Dem. Rep., Uganda"
+lake-michigan-chicago-crossing,Lake Michigan Chicago Crossing,,"123NET, Peninsula Fiber Network (PFN)",,2028,2028.0,True,,These two segments crossing Lake Michigan make diverse landings at Chicago and form a loop.,3,United States
+lake-michigan-crossing-peninsula-and-island-connection,Lake Michigan Crossing Peninsula and Island Connection,,"123NET, Peninsula Fiber Network (PFN)",,2028,2028.0,True,,,3,United States
+lake-tanganyika,Lake Tanganyika,370 km,Bandwidth and Cloud Services (BCS),,2025 Q1,2025.0,False,https://www.bcs-ea.com/,,2,"Congo, Dem. Rep."
+lanis-1,Lanis-1,113 km,Vodafone,,1992,1992.0,False,,,2,"Isle of Man, United Kingdom"
+lanis-2,Lanis-2,67 km,Vodafone,,1992,1992.0,False,,,2,"Isle of Man, United Kingdom"
+lanis-3,Lanis-3,122 km,Vodafone,,1992,1992.0,False,,,2,United Kingdom
+latvia-sweden-1-lv-se-1,Latvia-Sweden 1 (LV-SE 1),304 km,"Tele2, Tet",,1994,1994.0,False,,,2,"Latvia, Sweden"
+lazaro-cardenas-manzanillo-santiago-submarine-cable-system-lcmsscs,Lazaro Cardenas-Manzanillo Santiago Submarine Cable System (LCMSSCS),322 km,Telmex,,2013 Q4,2013.0,False,https://telmex.com/,,3,Mexico
+le-vasa,Le Vasa,,ASTCA,SubCom,2026,2026.0,True,,,1,American Samoa
+les-dhyres-cable,Îles d'Hyères Cable,45 km,Orange,ASN,1996,1996.0,False,,,5,France
+lfon-libyan-fiber-optic-network,LFON (Libyan Fiber Optic Network),"1,639 km","Libyan Post, Telecommunications and Information Technology Company (LPTIC Holding)",ASN,1999,1999.0,False,,,13,Libya
+libreville-port-gentil-cable,Libreville-Port Gentil Cable,198 km,Republic of Gabon,,2012 April,2012.0,False,,,2,Gabon
+lic-lin-lamp,Lic-Lin-Lamp,240 km,Sparkle,,2000,2000.0,False,,,3,Italy
+link-1-phase-1,Link 1 Phase-1,368 km,XLSmart,,2003 December,2003.0,False,https://www.xl.co.id,,2,Indonesia
+link-1-phase-2,Link 1 Phase-2,94 km,XLSmart,,2005 May,2005.0,False,https://www.xl.co.id,,2,Indonesia
+link-2-phase-1,Link 2 Phase-1,281 km,XLSmart,,2004 January,2004.0,False,https://www.xl.co.id,,2,Indonesia
+link-2-phase-2,Link 2 Phase-2,221 km,XLSmart,,2005 May,2005.0,False,https://www.xl.co.id,,2,Indonesia
+link-3-phase-1,Link 3 Phase-1,275 km,XLSmart,,2003 December,2003.0,False,https://www.xl.co.id,,2,Indonesia
+link-3-phase-2,Link 3 Phase-2,342 km,XLSmart,,2005 May,2005.0,False,https://www.xl.co.id,,3,Indonesia
+link-4-phase-2,Link 4 Phase-2,300 km,XLSmart,,2005 March,2005.0,False,https://www.xl.co.id,,2,Indonesia
+link-5-phase-2,Link 5 Phase-2,365 km,XLSmart,,2005 July,2005.0,False,https://www.xl.co.id,,2,Indonesia
+longyearbyen-ny-lesund,Longyearbyen-Ny-Ålesund,540 km,Sikt,Nexans,2015 May,2015.0,False,,,2,Norway
+lower-indian-ocean-network-2-lion2,Lower Indian Ocean Network 2 (LION2),"2,700 km","Emtel, Mauritius Telecom, Orange, Orange Madagascar, Société Réunionnaise du Radiotéléphone, Telkom Kenya",ASN,2012 April,2012.0,False,https://lion-submarinesystem.com,,2,"Kenya, Mayotte"
+lower-indian-ocean-network-lion,Lower Indian Ocean Network (LION),"1,060 km","Mauritius Telecom, Orange, Orange Madagascar",ASN,2009 November,2009.0,False,https://lion-submarinesystem.com,,3,"Madagascar, Mauritius, Réunion"
+lumut-pangkor-island,Lumut-Pangkor Island,4 km,Telekom Malaysia,,2018,2018.0,False,,,2,Malaysia
+luwuk-tutuyan-cable-system-ltcs,Luwuk Tutuyan Cable System (LTCS),446 km,Telkom Indonesia,,2015,2015.0,False,,,2,Indonesia
+lynn-canal-fiber,Lynn Canal Fiber,138 km,Alaska Power & Telephone Company (AP&T),,2016 October,2016.0,False,http://www.aptalaska.com,,3,United States
+mainone,MainOne,"7,000 km",MainOne - An Equinix Company,SubCom,2010 July,2010.0,False,https://www.mainone.net/,,5,"Côte d'Ivoire, Ghana, Nigeria, Portugal, Senegal"
+malaysia-cambodia-thailand-mct-cable,Malaysia-Cambodia-Thailand (MCT) Cable,"1,300 km","Symphony, Telcotech, Telekom Malaysia",HMN Tech,2017 March,2017.0,False,,,3,"Cambodia, Malaysia, Thailand"
+malbec,Malbec,"2,880 km","Meta, V.tal",ASN,2021 June,2021.0,False,https://www.vtal.com/en/home/,,4,"Argentina, Brazil"
+maldives-sri-lanka-cable-msc,Maldives Sri Lanka Cable (MSC),863 km,"Dhiraagu, Dialog Axiata, Ooredoo Maldives",HMN Tech,2021 February,2021.0,False,,,2,"Maldives, Sri Lanka"
+malta-gozo-cable,Malta-Gozo Cable,13 km,Gozo Fibre Optic Cable Ltd.,,2020 December,2020.0,False,,,2,Malta
+malta-italy-interconnector,Malta-Italy Interconnector,95 km,Government of Malta,,2015,2015.0,False,,"The Malta-Italy Interconnector is a power cable, which has optical fiber attached to it.",2,"Italy, Malta"
+manatua,Manatua,"3,634 km","Avaroa Cable Ltd., OPT French Polynesia, Samoa Submarine Cable Company, Telecom Niue",SubCom,2020 July,2020.0,False,,,6,"Cook Islands, French Polynesia, Niue, Samoa"
+manta,MANTA,"5,600 km","Gold Data, Liberty Networks, Sparkle",SubCom,2028 Q1,2028.0,True,,,6,"Colombia, Mexico, Panama, United States"
+manx-northern-ireland,Manx-Northern Ireland,59 km,BT,,2000,2000.0,False,,,2,"Isle of Man, United Kingdom"
+marea,MAREA,"6,605 km","Meta, Microsoft, Telxius",SubCom,2018 May,2018.0,False,http://www.telxius.com,,2,"Spain, United States"
+mariana-guam-cable,Mariana-Guam Cable,268 km,PTI Pacifica,,1997,1997.0,False,,,4,"Guam, Northern Mariana Islands"
+maroc-telecom-west-africa,Maroc Telecom West Africa,"8,600 km",Maroc Telecom,ASN,2021 July,2021.0,False,http://www.iam.ma,,6,"Benin, Côte d'Ivoire, Gabon, Morocco, Togo"
+mataram-kupang-cable-system-mkcs,Mataram Kupang Cable System (MKCS),"1,318 km",Telkom Indonesia,HMN Tech,2011 April,2011.0,False,,,7,Indonesia
+matrix-cable-system,Matrix Cable System,"1,055 km",Matrix NAP Info,SubCom,2008 August,2008.0,False,https://matrixnetworks.sg/,,3,"Indonesia, Singapore"
+mauritius-and-rodrigues-submarine-cable-system-mars,Mauritius and Rodrigues Submarine Cable System (MARS),677 km,Mauritius Telecom,HMN Tech,2019 February,2019.0,False,https://www.myt.mu/mars,,2,Mauritius
+maya-1-2,Maya-1.2,"2,386 km","Hondutel, Liberty Networks, Ufinet",ASN,2000 October,2000.0,False,https://libertynetworks.com/,,3,"Cayman Islands, Honduras, United States"
+med-cable-network,Med Cable Network,"1,300 km",Orascom Telecom Holding,ASN,2005 October,2005.0,False,,,4,"Algeria, France"
+medloop,Medloop,"1,360 km",SIPARTECH Sarl,ASN,2023,2023.0,False,https://www.sipartech.com/,,4,"France, Italy, Spain"
+mednautilus-submarine-system,MedNautilus Submarine System,"7,000 km",Sparkle,ASN,2001 November,2001.0,False,https://www.globalbackbone.tisparkle.com/,,7,"Cyprus, Greece, Israel, Italy, Turkey"
+medusa-submarine-cable-system,Medusa Submarine Cable System,"8,760 km",AFRIX Telecom,ASN,2026,2026.0,True,https://medusascs.com/,Orange Tunisie owns the Tunisia branch.,18,"Algeria, Cyprus, Egypt, France, Greece, Italy, Libya, Malta, Morocco, Portugal, Spain, Syria, Tunisia"
+melita-1,Melita 1,97 km,Melita,Norddeutsche Seekabelwerke GmbH (NSW),2009 June,2009.0,False,http://www.melita.com,,2,"Italy, Malta"
+meltingpot-indianoceanic-submarine-system-metiss,Meltingpot Indianoceanic Submarine System (METISS),"3,200 km","*Canal+ Telecom, CEB Fibernet, Emtel, SFR, Telma (Telecom Malagasy), Zeop (incl. Reunicable)",ASN,2021 March,2021.0,False,,,4,"Madagascar, Mauritius, Réunion, South Africa"
+mercator,Mercator,,BT,SubCom,2023 June,2023.0,False,,,2,"Belgium, United Kingdom"
+mid-atlantic-crossing-mac,Mid-Atlantic Crossing (MAC),"7,500 km",Cirion Technologies,ASN,2000 June,2000.0,False,https://www.ciriontechnologies.com,,3,"United States, Virgin Islands (U.S.)"
+middle-east-north-africa-mena-cable-systemgulf-bridge-international,Middle East North Africa (MENA) Cable System/Gulf Bridge International,"8,000 km","Gulf Bridge International, Telecom Egypt",ASN,2014 December,2014.0,False,https://www.te.eg/wps/portal/te/Business/Wholesale/,Telecom Egypt owns five fiber pairs on the cable. Gulf Bridge International owns one fiber pair across the MENA cable that connects to the company’s Gulf ring system. TE owns one fiber pair on the Gulf Bridge cable from Oman to India.,5,"Egypt, Italy, Oman, Saudi Arabia"
+minamidaito-island,Minamidaito Island,410 km,Okinawa Prefecture,,2011,2011.0,False,,,2,Japan
+minoas-east-and-west,Minoas East and West,270 km,Grid Telecom,Prysmian,2021,2021.0,False,https://www.grid-telecom.com/,"Minoas East and West are fiber optic cables attached to power cables. Minoas East was RFS in December, 2021. Minoas West was RFS in May, 2021. Each leg is 135 km in length, for a total of 270 km of fiber optic cable.",2,Greece
+mishima-village,Mishima Village,192 km,Mishima Village,,2010,2010.0,False,,,4,Japan
+mist,MIST,"8,100 km",Orient Link,NEC,2024 December,2024.0,False,https://orient-link.com/home/,,5,"India, Malaysia, Singapore, Thailand"
+miyazaki-okinawa-cable-moc,Miyazaki-Okinawa Cable (MOC),,KDDI,NEC,1997,1997.0,False,,,2,Japan
+mjolner-east,Mjolner East,450 km,GlobalConnect,,2027,2027.0,True,www.globalconnectcarrier.com,,4,"Estonia, Finland, Sweden"
+mjolner-west,Mjolner West,250 km,GlobalConnect,,2027,2027.0,True,www.globalconnectcarrier.com,,2,"Finland, Sweden"
+mobily-red-sea-cable-mrsc,Mobily Red Sea Cable (MRSC),,Mobily,,2027,2027.0,True,http://www.mobily.com.sa/,,2,"Egypt, Saudi Arabia"
+monet,Monet,"10,556 km","Algar Telecom, Angola Cables, Antel Uruguay, Google",SubCom,2017 December,2017.0,False,,,3,"Brazil, United States"
+moratelindo-international-cable-system-1-mic-1,Moratelindo International Cable System-1 (MIC-1),70 km,Moratelindo,,2008 January,2008.0,False,http://www.moratelindo.co.id,,2,"Indonesia, Singapore"
+muroran-hachinohe,Muroran-Hachinohe,280 km,Softbank,NEC,2002,2002.0,False,,,2,Japan
+n0r5ke-viking,N0r5ke Viking,810 km,NOR5KE Fibre AS,,2022 December,2022.0,False,https://www.n0r5kefibre.com/,,16,Norway
+national-digital-transmission-network-ndtn,National Digital Transmission Network (NDTN),"1,400 km",Telecoms Infrastructure Corporation of the Philippines (TelicPhil),,1999 March,1999.0,False,,,4,Philippines
+nationwide-submarine-cable-ooredoo-maldives-nascom,Nationwide Submarine Cable Ooredoo Maldives (NaSCOM),"1,136 km",Ooredoo Maldives,HMN Tech,2016 December,2016.0,False,http://ooredoo.mv,,6,Maldives
+natitua,Natitua,"2,680 km",OPT French Polynesia,ASN,2018 December,2018.0,False,https://www.natitua.pf/,,11,French Polynesia
+natitua-sud,Natitua Sud,820 km,OPT French Polynesia,ASN,2023 August,2023.0,False,https://www.natitua.pf/,,3,French Polynesia
+nelson-levin,Nelson-Levin,212 km,Spark New Zealand,,2001 June,2001.0,False,http://www.spark.co.nz,,2,New Zealand
+new-cam-ring,New CAM Ring,"3,812 km",IP Telecom,ASN,2026,2026.0,True,https://www.iptelecom.pt/,,6,Portugal
+new-cross-pacific-ncp-cable-system,New Cross Pacific (NCP) Cable System,"13,618 km","China Mobile, China Telecom, China Unicom, Chunghwa Telecom, KT, Microsoft, Softbank",SubCom,2018 May,2018.0,False,,,7,"China, Japan, South Korea, Taiwan, United States"
+nigeria-cameroon-submarine-cable-system-ncscs,Nigeria Cameroon Submarine Cable System (NCSCS),"1,100 km",Camtel,HMN Tech,2015 December,2015.0,False,,,2,"Cameroon, Nigeria"
+ningbo-zhoushan-cable,Ningbo-Zhoushan Cable,35 km,China Telecom,ASN,1999 July,1999.0,False,,,2,China
+no-uk,NO-UK,713 km,NO-UK COM AS,Xtera,2021 December,2021.0,False,https://www.altiboxcarrier.com/,,2,"Norway, United Kingdom"
+nome-to-homer-express-nthe,Nome to Homer Express (NTHE),"1,545 km",Quintillion,,2027,2027.0,True,https://www.quintillionglobal.com/,,8,United States
+nongsa-changi,Nongsa-Changi,50 km,"BW Digital, Telin",,2026 May,2026.0,True,,,2,"Indonesia, Singapore"
+nordbalt,NordBalt,400 km,"Litgrid, Svenska Kraftnät",,2016,2016.0,False,,"Lietuvos Energija and Svenska Kraftnät operate the NordBalt cable, a high-voltage power cable that also has a fiber-optic cable alongside it.",2,"Lithuania, Sweden"
+norfest,Norfest,749 km,Tampnet,Nexans,2023 December,2023.0,False,https://www.tampnet.com/norfest,,10,"Norway, Sweden"
+norte-conectado-infovia-00,Norte Conectado (Infovia 00),770 km,"Aquamar Group, BR.Digital Telecom, ICOM Telecom, SEA Telecom, Telefonica, Wirelink",Prysmian,2022 July,2022.0,False,https://www.gov.br/mcom/pt-br/acesso-a-informacao/acoes-e-programas/programas-projetos-acoes-obras-e-atividades/norte-conectado,Norte Conectado is a Brazilian initiative to lay submarine fiber under the Amazon river and its tributaries.,5,Brazil
+norte-conectado-infovia-01,Norte Conectado (Infovia 01),"1,100 km","Alloha Fibra, América Móvil (Claro), Aquamar Group, BR Fibra, ICOM Telecom, Ozônio Telecom, PPLink, SEA Telecom, TIM Brasil, Telefonica, V.tal, Você Telecom","HMN Tech, HT Cabos",2023 August,2023.0,False,https://www.gov.br/mcom/pt-br/acesso-a-informacao/acoes-e-programas/programas-projetos-acoes-obras-e-atividades/norte-conectado,Norte Conectado is a Brazilian initiative to lay submarine fiber under the Amazon river and its tributaries.,11,Brazil
+norte-conectado-infovia-02,Norte Conectado (Infovia 02),"1,796 km",Entidade Administradora da Faixa (EAF),ZTT,2026,2026.0,True,https://eaf.org.br/infovias,"Norte Conectado is a Brazilian initiative to lay submarine fiber under the Amazon river and its tributaries. EAF is a non-governmental, non-profit organization formed by the operators Claro, Tim and Vivo.",13,Brazil
+norte-conectado-infovia-03,Norte Conectado (Infovia 03),600 km,Entidade Administradora da Faixa (EAF),ZTT,2025,2025.0,False,https://eaf.org.br/infovias,"Norte Conectado is a Brazilian initiative to lay submarine fiber under the Amazon river and its tributaries. EAF is a non-governmental, non-profit organization formed by the operators Claro, Tim and Vivo.",8,Brazil
+norte-conectado-infovia-04,Norte Conectado (Infovia 04),515 km,Entidade Administradora da Faixa (EAF),ZTT,2026,2026.0,True,https://eaf.org.br/infovias,"Norte Conectado is a Brazilian initiative to lay submarine fiber under the Amazon river and its tributaries. EAF is a non-governmental, non-profit organization formed by the operators Claro, Tim and Vivo.",4,Brazil
+norte-conectado-infovia-05,Norte Conectado (Infovia 05),"1,116 km",Entidade Administradora da Faixa (EAF),,2028,2028.0,True,https://eaf.org.br/infovias,"Norte Conectado is a Brazilian initiative to lay submarine fiber under the Amazon river and its tributaries. EAF is a non-governmental, non-profit organization formed by the operators Claro, Tim and Vivo.",9,Brazil
+norte-conectado-infovia-06,Norte Conectado (Infovia 06),"2,847 km",Entidade Administradora da Faixa (EAF),,2028,2028.0,True,https://eaf.org.br/infovias,"Norte Conectado is a Brazilian initiative to lay submarine fiber under the Amazon river and its tributaries. EAF is a non-governmental, non-profit organization formed by the operators Claro, Tim and Vivo.",2,Brazil
+norte-conectado-infovia-08,Norte Conectado (Infovia 08),"2,766 km",Entidade Administradora da Faixa (EAF),,2028,2028.0,True,https://eaf.org.br/infovias,"Norte Conectado is a Brazilian initiative to lay submarine fiber under the Amazon river and its tributaries. EAF is a non-governmental, non-profit organization formed by the operators Claro, Tim and Vivo.",2,Brazil
+north-west-cable-system,North-West Cable System,"2,100 km",Vocus Communications,ASN,2016 September,2016.0,False,http://www.vocus.com.au,,3,Australia
+northern-lights,Northern Lights,67 km,BT,,2008,2008.0,False,,,2,United Kingdom
+northstar,NorthStar,"3,229 km",Alaska Communications,ASN,1999 October,1999.0,False,https://www.alaskacommunications.com,,4,United States
+nuvem,Nuvem,"7,194 km",Google,SubCom,2026,2026.0,True,https://cloud.google.com,,4,"Bermuda, Portugal, United States"
+ogasawara-cable-network,Ogasawara Cable Network,"1,038 km",Tokyo Metropolitan Government,NEC,2011 July,2011.0,False,,,3,Japan
+okinawa-cellular-cable,Okinawa Cellular Cable,760 km,Okinawa Cellular Telephone Company,NEC,2020 April,2020.0,False,https://www.au.com/okinawa_cellular/,,2,Japan
+okinawa-miyakojima-ishigaki,Okinawa-Miyakojima-Ishigaki,467 km,NTT,,2004,2004.0,False,,,3,Japan
+okinawa-remote-islands,Okinawa Remote Islands,915 km,Okinawa Prefecture,,2017 January,2017.0,False,,This cable was constructed as part of the Okinawa Remote Islands Information and Communication Infrastructure Development Promotion Project.,9,Japan
+olisipo,Olisipo,110 km,EllaLink,,2026 Q2,2026.0,True,https://www.ella.link/,,2,Portugal
+oman-australia-cable-oac,Oman Australia Cable (OAC),"11,000 km",SUBCO,SubCom,2022 October,2022.0,False,https://sub.co/,,5,"Australia, British Indian Ocean Territory, Cocos (Keeling) Islands, Oman"
+omranepeg,OMRAN/EPEG,600 km,"Vodafone, Zain Omantel International",,2013 Q1,2013.0,False,http://www.omantel.om,,5,"Iran, Oman"
+oran-valencia-orval,Oran-Valencia (ORVAL),770 km,Algerie Telecom,ASN,2020 December,2020.0,False,https://www.algerietelecom.dz/,,3,"Algeria, Spain"
+orca,ORCA,"12,482 km",Meta,ASN,2027 Q1,2027.0,True,https://www.meta.com/,,3,"Taiwan, United States"
+oskarshamn-visby,Oskarshamn-Visby,,GlobalConnect,,2008,2008.0,False,https://globalconnectcarrier.com/,,2,Sweden
+oteglobe-kokkini-bari,OTEGLOBE Kokkini-Bari,700 km,OTEGLOBE,ASN,2004 June,2004.0,False,http://www.oteglobe.gr,,2,"Greece, Italy"
+pacific-caribbean-cable-system-pccs,Pacific Caribbean Cable System (PCCS),"6,163 km","Liberty Networks, Setar, Telconet, Telxius, United Telecommunication Services (UTS)",ASN,2015 September,2015.0,False,,The portion of PCCS linking Aruba with Curacao is operated by Setar and United Telecommunication Services (UTS). This portion of the cable is called Alonso de Ojeda II.,9,"Aruba, Colombia, Curaçao, Ecuador, Panama, United States, Virgin Islands (U.K.)"
+pacific-crossing-1-pc-1,Pacific Crossing-1 (PC-1),"21,000 km",Pacific Crossing,SubCom,1999 December,1999.0,False,http://www.pc1.com,,4,"Japan, United States"
+pacific-light-cable-network-plcn,Pacific Light Cable Network (PLCN),"11,806 km","Google, Meta",SubCom,2022 January,2022.0,False,,,3,"Philippines, Taiwan, United States"
+padang-tua-pejat,Padang-Tua Pejat,160 km,Telkom Indonesia,,2019,2019.0,False,,,2,Indonesia
+palapa-ring-east,Palapa Ring East,"6,300 km","Indonesian Government, Moratelindo, Telekom PT SmartFren",,2019 October,2019.0,False,,,18,Indonesia
+palapa-ring-middle,Palapa Ring Middle,"2,100 km",Indonesian Government,HMN Tech,2018 December,2018.0,False,,,20,Indonesia
+palapa-ring-west,Palapa Ring West,"1,980 km",Indonesian Government,,2018 February,2018.0,False,,,11,Indonesia
+palawan-iloilo-cable-system,Palawan-Iloilo Cable System,300 km,PLDT,,2014 January,2014.0,False,,,2,Philippines
+pan-american-crossing-pac,Pan-American Crossing (PAC),"10,000 km",Cirion Technologies,SubCom,2000 March,2000.0,False,https://www.ciriontechnologies.com,,5,"Costa Rica, Mexico, Panama, United States"
+pan-european-crossing-uk-belgium,Pan European Crossing (UK-Belgium),117 km,Colt,,1999,1999.0,False,,,2,"Belgium, United Kingdom"
+pan-european-crossing-uk-ireland,Pan European Crossing (UK-Ireland),495 km,Colt,,2000 September,2000.0,False,,,4,"Ireland, United Kingdom"
+panam-south,PanAm South,"1,340 km","Corporacion Nacional de Telecomunicaciones (CNT), Liberty Networks","ASN, SubCom",1999,1999.0,False,,,2,"Ecuador, Panama"
+paniolo-cable-network,Paniolo Cable Network,576 km,Hawaiian Telcom,,2009,2009.0,False,,,7,United States
+pasela,PASELA,"1,100 km",Telkom Indonesia,"HMN Tech, PT. Lintas Teknologi Indonesia",2027 Q3,2027.0,True,,,2,Indonesia
+pasuli,PASULI,40 km,"FiberStar, XLSmart",,2019 August,2019.0,False,,,2,Indonesia
+patara-2,Patara-2,"1,200 km",Telin,NEC,2023 October,2023.0,False,,,3,Indonesia
+peace-cable,PEACE Cable,"25,000 km",Peace Cable International Network Co. Ltd.,HMN Tech,2022 March,2022.0,False,http://www.peacecable.net,Cyta owns the branch to Cyprus which they market as Arsinoe. GO owns the branch to Malta which they market as LaValette. Ooredoo Tunisia owns the Tunisian branch which they market as IFRIQYA. Zain owns the branch to Jeddah which they market as J2M (Jeddah to Marseille). du owns a branch to the UAE that will be completed in 2026.,14,"Cyprus, Egypt, France, Kenya, Maldives, Malta, Pakistan, Saudi Arabia, Seychelles, Singapore, Somalia, Tunisia, United Arab Emirates"
+penbal-4,Penbal-4,317 km,Telefonica,,1991,1991.0,False,,,3,Spain
+penbal-5,Penbal-5,315 km,Telefonica,,1994,1994.0,False,,,2,Spain
+pencan-8,Pencan-8,"1,400 km",Telefonica,ASN,2011,2011.0,False,,,2,Spain
+pencan-9,Pencan-9,"1,398 km",Telefonica,,2016,2016.0,False,,,2,Spain
+persona,Persona,800 km,Eastlink,Nexans,2008,2008.0,False,,,2,Canada
+petropavlovsk-kamchatsky---anadyr,Petropavlovsk-Kamchatsky - Anadyr,"2,173 km",Rostelecom,HMN Tech,2022 December,2022.0,False,https://www.company.rt.ru/,,3,Russia
+pgascom,PGASCOM,264 km,PGASCOM,,2010,2010.0,False,http://www.pgascom.co.id,The PGASCOM cable is comprised of fiber that is attached to a gas pipeline.,3,"Indonesia, Singapore"
+philippine-domestic-submarine-cable-network-pdscn,Philippine Domestic Submarine Cable Network (PDSCN),"2,500 km","Eastern Telecom, Globe Telecom, Infinivan Inc.",Nexans,2023 April,2023.0,False,,,33,Philippines
+piano-isole-minori,Piano Isole Minori,830 km,Infratel Italia,,2024 December,2024.0,False,https://www.infratelitalia.it/,,31,Italy
+picot-1,Picot-1,,OPT,ASN,2008,2008.0,False,https://www.opt.nc/,,3,New Caledonia
+pipe-pacific-cable-1-ppc-1,PIPE Pacific Cable-1 (PPC-1),"6,900 km",Vocus Communications,SubCom,2009 October,2009.0,False,http://www.vocus.com.au,,3,"Australia, Guam, Papua New Guinea"
+pishgaman-oman-iran-poi-network,Pishgaman Oman Iran (POI) Network,400 km,Pishgaman Kavir,,2012 June,2012.0,False,http://www.poiconnections.com/,,3,"Iran, Oman"
+pldt-domestic-fiber-optic-network-dfon,PLDT Domestic Fiber Optic Network (DFON),"11,100 km",PLDT,,1997,1997.0,False,http://www.pldt.com.ph,,13,Philippines
+png-lng,PNG LNG,200 km,Telikom Papua New Guinea,,2014,2014.0,False,,,2,Papua New Guinea
+polar-circle-cable,Polar Circle Cable,"1,004 km",KystTele,,2007 September,2007.0,False,http://www.kysttele.no,,7,Norway
+polar-express,Polar Express,"12,650 km",Russian Government,JSC Optic Fiber Systems,2022 October,2022.0,False,https://xn--e1ahdckegffejda6k5a1a.xn--p1ai/en/,The first phase linking Teriberka and Amderma was completed in October 2022. The remaining portions are scheduled to be in service between 2026 and 2028.,10,Russia
+portsmouth-ryde-10,Portsmouth-Ryde 10,,BT,Hexatronic,2015,2015.0,False,,,2,United Kingdom
+portsmouth-ryde-11,Portsmouth-Ryde 11,,BT,Hexatronic,2015,2015.0,False,,,2,United Kingdom
+poseidon,POSEIDON,800 km,"Ocean Specialists, Inc (OSI)",,2014 April,2014.0,False,,,2,Cyprus
+prat,Prat,"3,500 km",Grupo Gtd,Prysmian,2020 Q2,2020.0,False,https://www.gtd.cl,,12,Chile
+proa,Proa,"2,891 km",Google,NEC,2026,2026.0,True,https://cloud.google.com,,3,"Guam, Japan, Northern Mariana Islands"
+project-waterworth,Project Waterworth,"50,000 km",Meta,,,,True,https://about.meta.com/,,9,"Australia, Brazil, India, Malaysia, South Africa, United States"
+projeto-amaznia-conectada-pac-01,Projeto Amazônia Conectada (PAC 01),800 km,Government of Brazil,,2017,2017.0,False,,PAC 01 was laid in the Amazon riverbed in a pilot initiative coordinated by the Brazilian Ministry of Defense.,6,Brazil
+projeto-amaznia-conectada-pac-02,Projeto Amazônia Conectada (PAC 02),"1,001 km",Government of Brazil,,2021,2021.0,False,,PAC 02 was laid under Rio Negro through an interagency effort coordinated by the Brazilian Ministry of Defense.,5,Brazil
+qatar-u-a-e-submarine-cable-system,Qatar-U.A.E. Submarine Cable System,100 km,"Ooredoo, e&",,2004 December,2004.0,False,,,4,"Qatar, United Arab Emirates"
+qe-north,Q&E North,112 km,EXA Infrastructure,,2025,2025.0,False,https://exainfra.net/,,2,"Belgium, United Kingdom"
+qe-south,Q&E South,141 km,euNetworks,,2026 Q2,2026.0,True,,,2,"France, United Kingdom"
+quintillion-subsea-cable-network,Quintillion Subsea Cable Network,"1,900 km",Quintillion,ASN,2017 December,2017.0,False,https://www.quintillionglobal.com/,,6,United States
+r100-north,R100 North,224 km,BT,Nexans,2023 Q1,2023.0,False,https://www.scotlandsuperfast.com/r100-programme/r100-subsea-deployment/,,31,United Kingdom
+raman,Raman,"7,376 km","Google, Sparkle, Zain Omantel International",ASN,2026,2026.0,True,,,6,"Djibouti, India, Jordan, Oman, Saudi Arabia"
+red-hook-little-saint-james,Red Hook-Little Saint James,5 km,Virgin Islands Water and Power Authority,Prysmian,2005,2005.0,False,,,2,Virgin Islands (U.S.)
+red2med,Red2Med,420 km,Telecom Egypt,ASN,2023 Q1,2023.0,False,https://www.te.eg/interactivemap/#/the-digital-hub,,4,Egypt
+rising-8,RISING 8,"1,104 km","Moratelindo, Triasmitra",ASN,2026 Q1,2026.0,True,,,3,"Indonesia, Singapore"
+rnne-rdvig,Rønne-Rødvig,153 km,TDC Group,,1989,1989.0,False,,,2,Denmark
+rockabill,Rockabill,221 km,euNetworks,,2019 November,2019.0,False,http://www.eunetworks.com,,2,"Ireland, United Kingdom"
+rompin-tioman-island,Rompin-Tioman Island,75 km,Telekom Malaysia,,2018,2018.0,False,,,2,Malaysia
+romsar-2,ROMSAR 2,,Sparkle,,1996,1996.0,False,,,4,Italy
+romulo,Romulo,237 km,Red Electrica,,2011,2011.0,False,https://www.ree.es/,"Romulo is a power cable, which has optical fiber attached to it.",2,Spain
+roquetas-melilla-cam,Roquetas-Melilla (CAM),181 km,Telefonica,,2014 January,2014.0,False,https://www.telefonica.com/,,2,Spain
+ruppione-isolella,Ruppione-Isolella,62 km,Corsica Haut Débit,,2007,2007.0,False,,,2,France
+russia-japan-cable-network-rjcn,Russia-Japan Cable Network (RJCN),"1,800 km","KDDI, Rostelecom",NEC,2008 September,2008.0,False,,,2,"Japan, Russia"
+s-u-b-cable-system,S-U-B Cable System,"2,009 km",Telkom Indonesia,NEC,2008,2008.0,False,,,3,Indonesia
+saba-statia-cable-system-sscs,"Saba, Statia Cable System (SSCS)",198 km,Government of the Netherlands,,2013,2013.0,False,http://www.sscsbv.com,,5,"Bonaire, Sint Eustatius and Saba, Saint Barthélemy, Saint Kitts and Nevis, Sint Maarten"
+safe,SAFE,"13,500 km","AT&T, Angola Telecom, BICS, Camtel, China Telecom, Chunghwa Telecom, Cogent, Ghana Telecommunications Company, KPN, Liquid Intelligent Technologies, Maroc Telecom, Mauritius Telecom, NATCOM (Nigeria), OPT, Orange, Orange Cote d’Ivoire, PCCW, Singtel, Sonatel, Sparkle, Tata Communications, Telecom Namibia, Telefonica, Telekom Malaysia, Telkom South Africa, Telstra, Verizon, Vodafone",SubCom,2002 April,2002.0,False,,,6,"India, Malaysia, Mauritius, Réunion, South Africa"
+sagres,Sagres,302 km,Altice Portugal,,1998 July,1998.0,False,,,2,Portugal
+sakhalin-kuril-islands-cable,Sakhalin-Kuril Islands Cable,940 km,Rostelecom,HMN Tech,2019 March,2019.0,False,https://www.company.rt.ru/,,4,Russia
+samoa-american-samoa-sas,Samoa-American Samoa (SAS),250 km,"American Samoa Government, Elandia",,2009 May,2009.0,False,,,2,"American Samoa, Samoa"
+san-andres-isla-tolu-submarine-cable-sait,San Andres Isla Tolu Submarine Cable (SAIT),826 km,Energía Integral Andina,,2010 December,2010.0,False,,,2,Colombia
+sape-labuan-bajo-ende-kupang,Sape-Labuan Bajo-Ende-Kupang,474 km,Moratelindo,,2021 Q1,2021.0,False,http://moratelindo.co.id,,4,Indonesia
+sarco,SARCO,,Free,,2006,2006.0,False,,,2,"France, Italy"
+sat-3wasc,SAT-3/WASC,"14,350 km","AT&T, Altice Portugal, Angola Telecom, BICS, BT, Camtel, China Telecom, Chunghwa Telecom, Cogent, Cyta, Deutsche Telekom, Ghana Telecommunications Company, KPN, KT, Liquid Intelligent Technologies, Maroc Telecom, Mauritius Telecom, NATCOM (Nigeria), OPT, Orange, Orange Cote d’Ivoire, PCCW, SBIN (La Société Béninoise d’Infrastructures Numériques), Singtel, Sparkle, Tata Communications, Telecom Namibia, Telekom Malaysia, Telkom South Africa, Telstra, Telxius, Verizon, Vodafone",ASN,2002 April,2002.0,False,,,12,"Angola, Benin, Cameroon, Côte d'Ivoire, Gabon, Ghana, Nigeria, Portugal, Senegal, South Africa, Spain"
+saudi-arabia-sudan-1-sas-1,Saudi Arabia-Sudan-1 (SAS-1),333 km,"Sudatel, The Arab Investment Company, center3",ASN,2003 April,2003.0,False,,,2,"Saudi Arabia, Sudan"
+saudi-arabia-sudan-2-sas-2,Saudi Arabia-Sudan-2 (SAS-2),330 km,"Sudatel, center3",,2011 July,2011.0,False,,,2,"Saudi Arabia, Sudan"
+saudi-vision,Saudi Vision,"1,071 km",center3,ASN,2023 May,2023.0,False,https://center3.com/,,4,Saudi Arabia
+scandinavian-ring-north,Scandinavian Ring North,5 km,Arelion,Ericsson,2000,2000.0,False,,,2,"Denmark, Sweden"
+scandinavian-ring-south,Scandinavian Ring South,21 km,Arelion,Ericsson,2000,2000.0,False,,,2,"Denmark, Sweden"
+scotland-northern-ireland-3,Scotland-Northern Ireland 3,42 km,BT,,2022,2022.0,False,,,2,United Kingdom
+scotland-northern-ireland-4,Scotland-Northern Ireland 4,85 km,BT,,2022,2022.0,False,,,2,United Kingdom
+scylla,Scylla,204 km,euNetworks,,2021 August,2021.0,False,http://www.eunetworks.com,,2,"Netherlands, United Kingdom"
+sea-h2x,SEA-H2X,"6,000 km","China Mobile, China Unicom, Converge ICT",HMN Tech,2026,2026.0,True,,,6,"China, Malaysia, Philippines, Singapore, Thailand"
+sea-us,SEA-US,"14,500 km","GTA TeleGuam, Globe Telecom, Hawaiian Telcom, Lightstorm Telecom, Telin",NEC,2017 August,2017.0,False,,,7,"Guam, Indonesia, Micronesia, Palau, Philippines, United States"
+sea2shore,sea2shore,32 km,National Grid,,2016,2016.0,False,,,2,United States
+seabras-1,Seabras-1,"10,800 km","Seaborn Networks, Sparkle",ASN,2017 September,2017.0,False,http://www.seabornnetworks.com,,2,"Brazil, United States"
+seacomtata-tgn-eurasia,SEACOM/Tata TGN-Eurasia,"15,000 km","SEACOM, Tata Communications",SubCom,2009 July,2009.0,False,http://www.seacom.mu,"SEACOM owns the entire East African portion of the system and two fiber pairs between Egypt and India. Tata Communications owns two fiber pairs from Egypt to India and the branch to Jeddah, which the company refers to as TGN-Eurasia. Both SEACOM and Tata Communications own fiber pairs on TE North for connectivity across Egypt to Europe.",8,"Djibouti, Egypt, India, Kenya, Mozambique, Saudi Arabia, South Africa, Tanzania"
+sealink,SEALink,345 km,Alaska Power & Telephone Company Wireless (APTW),Prysmian,2023 Q1,2023.0,False,https://www.aptalaska.com/,,3,United States
+sealink-south,SEALink South,159 km,Alaska Power & Telephone Company Wireless (APTW),,2024 November,2024.0,False,https://www.aptalaska.com/,,3,United States
+seamewe-4,SeaMeWe-4,"20,000 km","Algerie Telecom, Bangladesh Submarine Cable Company Limited (BSCCL), Bharti Airtel, National Telecom, Orange, Pakistan Telecommunications Company Ltd., Singtel, Sparkle, Sri Lanka Telecom, Tata Communications, Telecom Egypt, Telekom Malaysia, Tunisia Telecom, Verizon, center3, e&","ASN, Fujitsu",2005 December,2005.0,False,https://www.seamewe4.net/,,16,"Algeria, Bangladesh, Egypt, France, India, Italy, Malaysia, Pakistan, Saudi Arabia, Singapore, Sri Lanka, Thailand, Tunisia, United Arab Emirates"
+seamewe-5,SeaMeWe-5,"20,000 km","Bangladesh Submarine Cable Company Limited (BSCCL), China Mobile, China Telecom, China Unicom, Djibouti Telecom, Myanmar Post and Telecommunication (MPT), Ooredoo, Orange, Singtel, Sparkle, Sri Lanka Telecom, TeleYemen, Telecom Egypt, Telekom Malaysia, Telkom Indonesia, Transworld, center3, du","ASN, NEC",2016 December,2016.0,False,,,18,"Bangladesh, Djibouti, Egypt, France, Indonesia, Italy, Malaysia, Myanmar, Oman, Pakistan, Saudi Arabia, Singapore, Sri Lanka, Turkey, United Arab Emirates, Yemen"
+seamewe-6,SeaMeWe-6,"21,700 km","Bahrain Telecommunications Company (Batelco), Bangladesh Submarine Cable Company Limited (BSCCL), Bharti Airtel, China Unicom, Dhiraagu, Djibouti Telecom, Microsoft, Mobily, Orange, PCCW, Singtel, Sri Lanka Telecom, Telecom Egypt, Telekom Malaysia, Telin, Transworld",SubCom,2027,2027.0,True,,"SeaMeWe-6's branch into the Gulf extends to Bahrain. The landings in Bahrain, Oman, Qatar, and the United Arab Emirates along with additional fiber pairs on the trunk from Bahrain to Oman are fully owned by Batelco, which the company refers to as Al Khaleej.  Airtel has privately owned pairs extending from Singapore to Chennai and Mumbai.",17,"Bahrain, Bangladesh, Djibouti, Egypt, France, India, Malaysia, Maldives, Oman, Pakistan, Qatar, Saudi Arabia, Singapore, Sri Lanka, United Arab Emirates"
+seax-1,SEAX-1,250 km,SEAX,HMN Tech,2018 May,2018.0,False,https://seax.net/,,3,"Indonesia, Malaysia, Singapore"
+segunda-fos-canal-de-chacao,Segunda FOS Canal de Chacao,40 km,Grupo Gtd,,2015 January,2015.0,False,https://www.gtd.cl,,2,Chile
+senegal-horn-of-africa-regional-express-share-cable,Senegal Horn of Africa Regional Express (SHARE) Cable,720 km,Sénégal Numérique SA,HMN Tech,2023 Q3,2023.0,False,https://senegalnumeriquesa.sn/,,2,"Cape Verde, Senegal"
+seychelles-to-east-africa-system-seas,Seychelles to East Africa System (SEAS),"1,930 km",Seychelles Cable System Ltd.,ASN,2012 August,2012.0,False,,,2,"Seychelles, Tanzania"
+shefa-2,SHEFA-2,"1,000 km",Shefa,Xtera,2008 March,2008.0,False,http://www.shefa.fo,,7,"Faroe Islands, United Kingdom"
+sihanoukville-hong-kong-shv-hk,Sihanoukville-Hong Kong (SHV-HK),"2,938 km",Government of Cambodia,HMN Tech,2026,2026.0,True,,,2,"Cambodia, China"
+silphium,Silphium,425 km,Libya International Telecommunications Company,HMN Tech,2013 January,2013.0,False,http://www.litc.ly,,2,"Greece, Libya"
+sint-maarten-puerto-rico-network-one-smpr-1,Sint Maarten Puerto Rico Network One (SMPR-1),375 km,"Dauphin Telecom, TelEm Group",,2004 December,2004.0,False,,,3,"Saint Martin, Sint Maarten, United States"
+sir-abu-nuayr-cable,Sir Abu Nu’ayr Cable,84 km,e&,,2018,2018.0,False,https://www.etisalat.ae/,,2,United Arab Emirates
+sirius-north,Sirius North,147 km,Virgin Media Business,,1999,1999.0,False,,,2,United Kingdom
+sirius-south,Sirius South,219 km,Virgin Media Business,,1999,1999.0,False,,,2,"Ireland, United Kingdom"
+sistem-kabel-rakyat-1malaysia-skr1m,Sistem Kabel Rakyat 1Malaysia (SKR1M),"3,800 km","TIME dotCom, Telekom Malaysia",NEC,2017 September,2017.0,False,,,6,Malaysia
+sjjk,SJJK,543 km,XLSmart,,2008 December,2008.0,False,https://www.xl.co.id,,5,Indonesia
+skagenfiber-west,Skagenfiber West,170 km,Altibox,,2020 November,2020.0,False,http://www.skagenfiber.no,,2,"Denmark, Norway"
+skagerrak-4,Skagerrak 4,137 km,Statnett,,2014 December,2014.0,False,,,2,"Denmark, Norway"
+smpcs-packet-1,SMPCS Packet-1,"3,156 km",Telkom Indonesia,ASN,2015,2015.0,False,,,12,Indonesia
+smpcs-packet-2,SMPCS Packet-2,"3,498 km",Telkom Indonesia,NEC,2015,2015.0,False,,,11,Indonesia
+sol,Sol,"8,153 km",Google,SubCom,2028,2028.0,True,https://cloud.google.com,,4,"Bermuda, Portugal, Spain, United States"
+solas,Solas,232 km,"Vodafone, eir",,1999 April,1999.0,False,,,2,"Ireland, United Kingdom"
+sorsogon-samar-submarine-fiber-optical-interconnection-project-sssfoip,Sorsogon-Samar Submarine Fiber Optical Interconnection Project (SSSFOIP),21 km,National Grid Corporation of the Philippines,HMN Tech,2019,2019.0,False,,"The Sorsogon-Samar Submarine Fiber Optical Interconnection Project is a power cable, which has optical fiber attached to it.",2,Philippines
+south-america-1-sam-1,South America-1 (SAm-1),"25,000 km",Telxius,SubCom,2001 March,2001.0,False,http://www.telxius.com/,,16,"Argentina, Brazil, Chile, Colombia, Dominican Republic, Ecuador, Guatemala, Peru, United States"
+south-american-crossing-sac,South American Crossing (SAC),"20,000 km","Cirion Technologies, Sparkle",ASN,2000 September,2000.0,False,https://www.ciriontechnologies.com,"Cirion owns three fiber pairs on the systems, while Sparkle owns one fiber. Only Cirion has capacity on the branch to Colombia.",11,"Argentina, Brazil, Chile, Colombia, Panama, Peru, Venezuela, Virgin Islands (U.S.)"
+south-atlantic-cable-system-sacs,South Atlantic Cable System (SACS),"6,165 km",Angola Cables,NEC,2018 September,2018.0,False,https://www.angolacables.co.ao/,,2,"Angola, Brazil"
+south-atlantic-inter-link-sail,South Atlantic Inter Link (SAIL),"5,800 km","Camtel, China Unicom",HMN Tech,2020,2020.0,False,,,2,"Brazil, Cameroon"
+south-pacific-cable-system-spcsmistral,South Pacific Cable System (SPCS)/Mistral,"7,300 km","América Móvil (Claro), Telxius",SubCom,2021 August,2021.0,False,,,5,"Chile, Ecuador, Guatemala, Peru"
+southeast-asia-japan-cable-2-sjc2,Southeast Asia-Japan Cable 2 (SJC2),"10,500 km","China Mobile, Chunghwa Telecom, DongHwa Telecom, KDDI, Meta, SK Broadband, Singtel, Telin, True Corporation, VNPT International",NEC,2025 July,2025.0,False,,,10,"China, Japan, Singapore, South Korea, Taiwan, Thailand, Vietnam"
+southeast-asia-japan-cable-sjc,Southeast Asia-Japan Cable (SJC),"8,900 km","China Mobile, China Telecom, Chunghwa Telecom, Globe Telecom, Google, KDDI, National Telecom, Singtel, Telkom Indonesia, Unified National Networks (UNN)","NEC, SubCom",2013 June,2013.0,False,,,6,"Brunei, China, Japan, Philippines, Singapore"
+southern-caribbean-fiber,Southern Caribbean Fiber,"3,000 km",Digicel,"ASN, SubCom",2006 September,2006.0,False,,,16,"Antigua and Barbuda, Barbados, Dominica, Grenada, Guadeloupe, Martinique, Montserrat, Saint Barthélemy, Saint Kitts and Nevis, Saint Lucia, Saint Martin, Saint Vincent and the Grenadines, Trinidad and Tobago, United States, Virgin Islands (U.S.)"
+southern-cross-cable-network-sccn,Southern Cross Cable Network (SCCN),"30,500 km",Southern Cross Cable Network,"ASN, Fujitsu",2000 November,2000.0,False,http://www.southerncrosscables.com,,9,"Australia, Fiji, New Zealand, United States"
+southern-cross-next,Southern Cross NEXT,"13,700 km",Southern Cross Cable Network,ASN,2022 July,2022.0,False,https://www.southerncrosscables.com/,,7,"Australia, Fiji, Kiribati, New Zealand, Tokelau, United States"
+sovetskaya-gavan-ilyinskoye,Sovetskaya Gavan-Ilyinskoye,214 km,TTK,,2007,2007.0,False,,,2,Russia
+sovetskaya-gavan-uglegorsk,Sovetskaya Gavan-Uglegorsk,127 km,Rostelecom,HMN Tech,2019,2019.0,False,https://www.company.rt.ru/en/,,2,Russia
+st-pierre-and-miquelon-cable,St. Pierre and Miquelon Cable,200 km,French Authority of St. Pierre and Miquelon,ASN,2018 May,2018.0,False,,,4,"Canada, Saint Pierre and Miquelon"
+st-thomas-st-croix-system,St. Thomas-St. Croix System,183 km,"Virgin Islands Next Generation Networks, Inc.",,1997 May,1997.0,False,http://www.vingn.com,,7,Virgin Islands (U.S.)
+sto-hel-one,STO-HEL-One,560 km,GlobalConnect,Ericsson,2008,2008.0,False,https://www.globalconnectcarrier.com/,,4,"Finland, Sweden"
+strategic-evolution-underwater-link-seul,Strategic Evolution Underwater Link (SEUL),24 km,Belize Telemedia,HMN Tech,2017 July,2017.0,False,https://www.livedigi.com/,,2,Belize
+subcan-link-1,Subcan Link 1,143 km,Cable Submarine de Canarias,SubCom,2002 May,2002.0,False,,,2,Spain
+subcan-link-2,Subcan Link 2,136 km,Cable Submarine de Canarias,SubCom,2002 May,2002.0,False,,,2,Spain
+submarine-cable-in-the-philippines-scip,Submarine Cable in the Philippines (SCiP),"1,638 km",DITO Telecommunity,HMN Tech,2022,2022.0,False,https://dito.ph/,,17,Philippines
+sumatera-bangka-cable-system-sbcs,Sumatera Bangka Cable System (SBCS),57 km,Telkom Indonesia,,2014,2014.0,False,,,2,Indonesia
+sunoque-i,Sunoque I,,"Hydro-Québec, Telus",,1999 October,1999.0,False,,,2,Canada
+sunoque-ii,Sunoque II,,"Hydro-Québec, Telus",,1999 October,1999.0,False,,,2,Canada
+sunoque-iii,Sunoque III,125 km,"Hydro-Québec, Telus",Hexatronic,2027,2027.0,True,https://www.telus.com/,,2,Canada
+suriname-guyana-submarine-cable-system-sg-scs,Suriname-Guyana Submarine Cable System (SG-SCS),"1,249 km","Guyana Telephone and Telegraph (GT&T), Telesur",HMN Tech,2010 July,2010.0,False,,,3,"Guyana, Suriname, Trinidad and Tobago"
+svalbard-undersea-cable-system,Svalbard Undersea Cable System,"2,714 km",Space Norway,SubCom,2004 January,2004.0,False,https://spacenorway.no,,2,Norway
+sweden-estonia-ee-s-1,Sweden-Estonia (EE-S 1),240 km,"Arelion, GN Great Nordic, Telia Eesti (formerly Eesti Telekom, EMT, Elion)",ASN,1995 June,1995.0,False,,,3,"Estonia, Sweden"
+sweden-latvia,Sweden-Latvia,391 km,Latvia State Radio and Television Centre,,2005 January,2005.0,False,http://www.lvrtc.lv,,3,"Latvia, Sweden"
+sx-tasman-express-sx-tx,SX Tasman Express (SX-TX),"2,276 km",Southern Cross Cable Network,ASN,2028,2028.0,True,http://www.southerncrosscables.com,,2,"Australia, New Zealand"
+sydney-melbourne-adelaide-perth-smap,Sydney-Melbourne-Adelaide-Perth (SMAP),"5,000 km",SUBCO,ASN,2026 Q1,2026.0,True,https://sub.co/,,5,Australia
+t3,T3,"3,200 km","Liquid Intelligent Technologies, Mauritius Telecom",ASN,2023 Q4,2023.0,False,,,2,"Mauritius, South Africa"
+taba-aqaba,Taba-Aqaba,13 km,National Electric Power Company of Jordan,,1998,1998.0,False,,,2,"Egypt, Jordan"
+tabua,Tabua,,Google,SubCom,2026,2026.0,True,https://cloud.google.com,,6,"Australia, Fiji, United States"
+taihei,Taihei,"7,000 km",Google,NEC,2029,2029.0,True,https://cloud.google.com,,2,"Japan, United States"
+taino-carib,Taino-Carib,187 km,"AT&T, Altice USA, CANTV, Cogent, Embratel, Liberty Networks, Orange, Setar",AT&T SSI,1992 January,1992.0,False,,,3,United States
+taiwan-matsu-no-4,Taiwan-Matsu No.4,300 km,Chunghwa Telecom,,2026 June,2026.0,True,,,4,Taiwan
+taiwan-penghu-kinmen-matsu-no-2-tpkm2,Taiwan Penghu Kinmen Matsu No.2 (TPKM2),467 km,Chunghwa Telecom,NEC,2000,2000.0,False,,,6,Taiwan
+taiwan-penghu-kinmen-matsu-no-3-tpkm3,Taiwan Penghu Kinmen Matsu No.3 (TPKM3),510 km,Chunghwa Telecom,NEC,2013,2013.0,False,,,10,Taiwan
+taiwan-strait-express-1-tse-1,Taiwan Strait Express-1 (TSE-1),260 km,"China Mobile, China Unicom, Chunghwa Telecom, Far EasTone (FET), Taiwan International Gateway Corporation, Taiwan Mobile",HMN Tech,2013 January,2013.0,False,,,2,"China, Taiwan"
+talaylink,TalayLink,,Google,SubCom,2028,2028.0,True,https://cloud.google.com,,4,"Australia, Christmas Island, Thailand"
+tam-1,TAM-1,"7,200 km",Trans Americas Fiber,Xtera,2026 Q1,2026.0,True,https://transamericasfiber.com/,,10,"Colombia, Costa Rica, Guatemala, Honduras, Mexico, Panama, United States, Virgin Islands (U.S.)"
+tampnet-north,Tampnet North,"1,751 km",Tampnet,"Ericsson, Nexans",1999 July,1999.0,False,https://www.tampnet.com/,,3,"Norway, United Kingdom"
+tampnet-south,Tampnet South,"1,751 km",Tampnet,"Ericsson, Nexans",1999 July,1999.0,False,https://www.tampnet.com/,,2,"Norway, United Kingdom"
+tamtam,Tamtam,"1,000 km",Prima,ASN,2027 Q4,2027.0,True,https://www.prima.vu/,,5,"New Caledonia, Vanuatu"
+tangerine,Tangerine,112 km,Colt,,2000 September,2000.0,False,,,2,"Belgium, United Kingdom"
+tanjung-pandan-sungai-kakap,Tanjung Pandan-Sungai Kakap,348 km,Moratelindo,,2019 Q4,2019.0,False,http://www.moratelindo.co.id,,2,Indonesia
+tannat,Tannat,"2,000 km","Antel Uruguay, Google",ASN,2018 Q1,2018.0,False,,,3,"Argentina, Brazil, Uruguay"
+tarakan-selor-cable-system-tscs,Tarakan Selor Cable System (TSCS),83 km,Telkom Indonesia,,2014,2014.0,False,,,2,Indonesia
+tasman-global-access-tga-cable,Tasman Global Access (TGA) Cable,"2,288 km","One NZ, Spark New Zealand, Telstra",ASN,2017 March,2017.0,False,,,2,"Australia, New Zealand"
+tasman-ring-network,Tasman Ring Network,"6,000 km",Datagrid New Zealand,,2027 Q4,2027.0,True,https://www.datagrid.nz/,,6,"Australia, New Zealand"
+tata-tgn-atlantic-south,Tata TGN-Atlantic South,,Tata Communications,,2001 June,2001.0,False,http://www.tatacommunications.com,,2,"United Kingdom, United States"
+tata-tgn-gulf,Tata TGN-Gulf,"4,031 km",Tata Communications,SubCom,2012 February,2012.0,False,http://www.tatacommunications.com,,6,"Bahrain, Oman, Qatar, Saudi Arabia, United Arab Emirates"
+tata-tgn-intra-asia-tgn-ia,Tata TGN-Intra Asia (TGN-IA),"6,700 km",Tata Communications,SubCom,2009 March,2009.0,False,http://www.tatacommunications.com,,4,"China, Philippines, Singapore, Vietnam"
+tata-tgn-pacific,Tata TGN-Pacific,"22,300 km",Tata Communications,SubCom,2002 December,2002.0,False,http://www.tatacommunications.com,,5,"Guam, Japan, United States"
+tata-tgn-tata-indicom,Tata TGN-Tata Indicom,"3,175 km",Tata Communications,SubCom,2004 November,2004.0,False,http://www.tatacommunications.com,,2,"India, Singapore"
+tata-tgn-western-europe,Tata TGN-Western Europe,"3,578 km",Tata Communications,SubCom,2002 June,2002.0,False,http://www.tatacommunications.com,,3,"Portugal, Spain, United Kingdom"
+tautira-teahupoo,Tautira-Teahupo'o,38 km,OPT French Polynesia,Prysmian,2023 Q4,2023.0,False,,,2,French Polynesia
+te-northtgn-eurasiaseacomalexandrosmedex,TE North/TGN-Eurasia/SEACOM/Alexandros/Medex,"3,634 km","Algerie Telecom, Cyta, PCCW, SEACOM, Tata Communications, Telecom Egypt",ASN,2011 July,2011.0,False,https://www.te.eg/wps/portal/te/Business/Wholesale/,"Telecom Egypt operates TE North, but has sold fiber pairs to several parties. Tata Communications owns one fiber pair on the cable which the company refers to as TGN-Eurasia. SEACOM owns one fiber pair. Cyta owns one fiber pair and whollly-owns the branch to Cyprus which the company refers to as Alexandros. PCCW and Algerie Telecom operate a branch to Algeria called Medex.",4,"Algeria, Cyprus, Egypt, France"
+tegopa,TEGOPA,222 km,Telefonica,,1994,1994.0,False,,,3,Spain
+telstra-endeavour,Telstra Endeavour,"9,125 km",Telstra,ASN,2008 September,2008.0,False,https://www.telstrainternational.com/,,2,"Australia, United States"
+tenerife-gran-canaria,Tenerife-Gran Canaria,110 km,Telefonica,,1999,1999.0,False,,,2,Spain
+tenerife-la-palma,Tenerife-La Palma,,Telefonica,,,,False,,,2,Spain
+terra-sw,TERRA SW,,GCI Communication Corp,,2012,2012.0,False,https://www.gci.com/,,11,United States
+thailand-domestic-submarine-cable-network-tdscn,Thailand Domestic Submarine Cable Network (TDSCN),884 km,National Telecom,,2001 May,2001.0,False,,,5,Thailand
+thailand-indonesia-singapore-tis,Thailand-Indonesia-Singapore (TIS),968 km,"National Telecom, Singtel, Telkom Indonesia",NEC,2003 December,2003.0,False,,,3,"Indonesia, Singapore, Thailand"
+the-east-african-marine-system-teams,The East African Marine System (TEAMS),"5,054 km","TEAMS Ltd., e&",ASN,2009 October,2009.0,False,,,2,"Kenya, United Arab Emirates"
+thetis,Thetis,660 km,Vodafone,Nexans,2022,2022.0,False,https://www.vodafone.gr/,,20,Greece
+thetis-express,Thetis Express,340 km,Vodafone,,2027 Q3,2027.0,True,https://www.vodafone.gr/,,3,Greece
+tikal-amx3,TIKAL-AMX3,"1,935 km","América Móvil (Claro), Telxius",ASN,2026,2026.0,True,,,3,"Guatemala, Mexico, United States"
+timor-leste-south-submarine-cable-tlssc,Timor-Leste South Submarine Cable (TLSSC),607 km,Government of Timor-Leste,ASN,2025,2025.0,False,,,1,Timor-Leste
+tko-connect,TKO Connect,6 km,"HKBN, iAdvantage",,2023 September,2023.0,False,,,2,China
+tmx5,TMX5,383 km,Telmex,,2025,2025.0,False,,,2,Mexico
+tobrok-emasaed-cable-system,Tobrok-Emasaed Cable System,178 km,Libya International Telecommunications Company,HMN Tech,2010 October,2010.0,False,,,2,Libya
+tokelau-submarine-cable,Tokelau Submarine Cable,250 km,Teletok,ASN,2023 August,2023.0,False,https://www.teletokco.tk,,3,Tokelau
+tonga-cable,Tonga Cable,827 km,"Digicel Tonga, Government of Tonga, Tonga Communications Corporation",ASN,2013 August,2013.0,False,,,2,"Fiji, Tonga"
+tonga-domestic-cable-extension-tdce,Tonga Domestic Cable Extension (TDCE),410 km,Tonga Cable Limited,ASN,2018 January,2018.0,False,,,3,Tonga
+topaz,Topaz,,Google,NEC,2023,2023.0,False,https://cloud.google.com,,5,"Canada, Japan, Taiwan"
+tpu,TPU,"13,470 km",Google,NEC,2026,2026.0,True,https://cloud.google.com,,5,"Guam, Northern Mariana Islands, Philippines, Taiwan, United States"
+trans-adriatic-express-tae,Trans Adriatic Express (TAE),106 km,"EXA Infrastructure, TAP AG",,2023 May,2023.0,False,https://exainfra.net/,,2,"Albania, Italy"
+trans-caspian-fiber-optic-cable-project,Trans-Caspian Fiber Optic Cable Project,380 km,"Azertelecom, Kazakhtelecom",,2026 Q4,2026.0,True,,,2,"Azerbaijan, Kazakhstan"
+trans-global-cable-system-tgcs,Trans Global Cable System (TGCS),"1,200 km",Trans Indonesia Supercorridor,HMN Tech,2026 Q4,2026.0,True,https://www.supercorridor.co.id/,,7,Indonesia
+trans-pacific-express-tpe-cable-system,Trans-Pacific Express (TPE) Cable System,"17,968 km","AT&T, China Telecom, China Unicom, Chunghwa Telecom, KT, NTT, Verizon",SubCom,2008 August,2008.0,False,https://tpecable.org:59876/,,6,"China, Japan, South Korea, Taiwan, United States"
+transcan-2,TRANSCAN-2,238 km,Telefonica,,1990,1990.0,False,,,4,Spain
+transcan-3,TRANSCAN-3,210 km,Telefonica,,2000,2000.0,False,,,2,Spain
+transworld-tw1,Transworld (TW1),"1,300 km",Transworld,SubCom,2006 June,2006.0,False,http://www.tw1.com,,3,"Oman, Pakistan, United Arab Emirates"
+tt1,TT1,44 km,"Alliance Telecommunications, Liberty Networks, TSTT",,2015 August,2015.0,False,,,2,Trinidad and Tobago
+tui-samoa,Tui-Samoa,"1,693 km",Samoa Submarine Cable Company,ASN,2018 February,2018.0,False,http://ssccsamoa.com/,,6,"Fiji, Samoa, Wallis and Futuna"
+turcyos-1,Turcyos-1,110 km,Turk Telekom,ASN,1993,1993.0,False,,,2,"Cyprus, Turkey"
+turcyos-2,Turcyos-2,213 km,Turk Telekom,,2011 March,2011.0,False,http://www.turktelekom.com.tr,,2,"Cyprus, Turkey"
+tverrlinken,Tverrlinken,,KystTele,,2010,2010.0,False,http://www.kysttele.no,,4,Norway
+uae-iran,UAE-Iran,170 km,"Telecommunication Infrastructure Company of Iran, e&",ASN,1992,1992.0,False,,,2,"Iran, United Arab Emirates"
+ugarit,UGARIT,239 km,"A1 Telekom Austria, AT&T, BT, Cyta, Deutsche Telekom, Lebanese Ministry of Telecommunications, Orange, Singtel, Sparkle, Syrian Telecommunications Establishment, Tata Communications, Telefonica, Vivacom",SubCom,1995 February,1995.0,False,,,2,"Cyprus, Syria"
+uk-channel-islands-7,UK-Channel Islands-7,124 km,"BT, Sure",,1994 January,1994.0,False,,,2,"Guernsey, United Kingdom"
+uk-channel-islands-8,UK-Channel Islands-8,237 km,BT,,1994 January,1994.0,False,,,2,"Jersey, United Kingdom"
+ulleung-mainland-2,Ulleung-Mainland 2,164 km,KT,,2016,2016.0,False,,,2,South Korea
+ultramar-ge,Ultramar GE,263 km,GITGE (Gestor de Infraestructuras de Telecomunicaciones de Guinea Ecuatorial),ASN,2023 March,2023.0,False,https://gitge.com/en/home/,,2,"Equatorial Guinea, Sao Tome and Principe"
+ulysses-2,Ulysses 2,,Verizon,,1997,1997.0,False,,,2,"Netherlands, United Kingdom"
+umo,UMO,"2,227 km",Campana Group,HMN Tech,2023 September,2023.0,False,https://www.campanaworks.com/,,2,"Myanmar, Singapore"
+umoja,Umoja,,Google,SubCom,2028,2028.0,True,https://cloud.google.com,,2,"Australia, South Africa"
+unisur,Unisur,265 km,"Antel Uruguay, Telxius",ASN,1995 March,1995.0,False,,,2,"Argentina, Uruguay"
+unitel-north-submarine-cable-unsc,Unitel North Submarine Cable (UNSC),"1,145 km",Unitel (Angola),HMN Tech,2023 January,2023.0,False,http://www.unitel.ao,,4,Angola
+unitirreno,Unitirreno,"1,156 km","Azimut, Unidata",ASN,2025 October,2025.0,False,http://www.unitirreno.com/,,4,Italy
+unity,Unity,"9,620 km","Bharti Airtel, Google, KDDI, Singtel, TIME dotCom, Telstra","NEC, SubCom",2010 March,2010.0,False,,,2,"Japan, United States"
+vaka,VAKA,668 km,Tuvalu Telecommunications Corporation (TTC),SubCom,2026 Q2,2026.0,True,https://www.tuvalutelecom.tv/,,1,Tuvalu
+vancouver-bowen-island-vancouver-island,Vancouver-Bowen Island-Vancouver Island,75 km,Rogers Communications,,2019 April,2019.0,False,,,4,Canada
+venezuelan-festoon,Venezuelan Festoon,"1,200 km",CANTV,,1998,1998.0,False,,,12,Venezuela
+verena,Verena,630 km,Altibox,Xtera,2028 Q4,2028.0,True,https://www.altiboxcarrier.com/,,2,"Denmark, United Kingdom"
+vietnam-singapore-cable-system-vts,Vietnam-Singapore Cable System (VTS),,"Singtel, Viettel Corporation",,2027 Q2,2027.0,True,,,4,"Malaysia, Singapore, Thailand, Vietnam"
+vodafone-greece-domestic,Vodafone Greece Domestic,92 km,Vodafone,Norddeutsche Seekabelwerke GmbH (NSW),2008,2008.0,False,https://www.vodafone.gr/,,2,Greece
+vstervik-visby,Västervik-Visby,,GlobalConnect,,2008,2008.0,False,https://globalconnectcarrier.com/,,2,Sweden
+west-africa-cable-system-wacs,West Africa Cable System (WACS),"14,530 km","Altice Portugal, Angola Cables, Bayobab, Broadband Infraco, Camtel, Cape Verde Telecom, Congo Telecom, Liquid Intelligent Technologies, Office Congolais de Poste et Télécommunication, PCCW, Tata Communications, Telecom Namibia, Telkom South Africa, Togo Telecom, Vodacom DRC, Vodafone, Vodafone Espana, Vodafone Ghana",ASN,2012 May,2012.0,False,https://wacscable.com/,The cable provides connectivity from Portugal to the United Kingdom via dedicated fiber pairs on an existing cable.,13,"Angola, Cameroon, Cape Verde, Congo, Dem. Rep., Congo, Rep., Côte d'Ivoire, Ghana, Namibia, Nigeria, Portugal, South Africa, Spain, Togo"
+whidbey-island-camano-island,Whidbey Island-Camano Island,4 km,Whidbey Telecom,Prysmian,1999,1999.0,False,,,2,United States
+whidbey-island-everett,Whidbey Island-Everett,9 km,Whidbey Telecom,Prysmian,1999,1999.0,False,,,2,United States
+whidbey-island-hat-island,Whidbey Island-Hat Island,4 km,Whidbey Telecom,Prysmian,1999,1999.0,False,,,2,United States
+whidbey-island-seattle,Whidbey Island-Seattle,44 km,Whidbey Telecom,Prysmian,1999,1999.0,False,,,2,United States
+x-link-submarine-cable,X-Link Submarine Cable,775 km,E-Networks Inc.,,2019 December,2019.0,False,https://www.enetworks.gy/,The Grenada-Guyana and Guyana-Suriname segments are planned.,2,"Barbados, Guyana"
+yellow,Yellow,"7,001 km",Colt,SubCom,2000 September,2000.0,False,,,2,"United Kingdom, United States"
+yui,YUI,720 km,Okinawa Cellular Telephone Company,NEC,2023 July,2023.0,False,,,4,Japan
+yuza-tobishima,Yuza-Tobishima,31 km,NTT,NEC,2022 February,2022.0,False,,,2,Japan
+zayo-festoon,Zayo Festoon,,Zayo,SubCom,2015,2015.0,False,,,3,United States
+zeus,Zeus,,Zayo,Hexatronic,2022 July,2022.0,False,https://zayoeurope.com/,,2,"Netherlands, United Kingdom"
