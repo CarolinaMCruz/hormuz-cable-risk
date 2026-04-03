@@ -8,3 +8,4 @@ dist/
 .ipynb_checkpoints/
 data/raw/
 data/processed/ucdp_combined.csv
+outputs/
