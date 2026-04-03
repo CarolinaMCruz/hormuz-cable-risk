@@ -143,6 +143,7 @@ python src/capturar_ais.py --minutos 5
 - Los datos de presencia de embarcaciones de Global Fishing Watch (AIS) no fueron integrados por restricciones de acceso. Agregar la densidad de embarcaciones cerca de las rutas de cables mejoraría significativamente el componente de exposición.
 - Las geometrías de rutas de cables de TeleGeography son representaciones cartográficas, no datos de ingeniería precisos.
 - El índice aplica tratamiento geográfico uniforme a todos los eventos de conflicto dentro del radio, independientemente de si afectan específicamente la infraestructura marítima.
+- El seguimiento de embarcaciones en tiempo real con AISstream fue probado pero el servicio no estaba disponible al momento del desarrollo. El script de captura (`src/capturar_ais.py`) está incluido para uso futuro cuando el servicio se restaure.
 
 ---
 

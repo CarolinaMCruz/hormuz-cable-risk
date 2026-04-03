@@ -136,6 +136,7 @@ open outputs/mapa_completo.html
 - Global Fishing Watch vessel presence data (AIS) was not integrated due to access restrictions. Adding vessel density near cable routes would significantly improve the exposure component.
 - Cable route geometries from TeleGeography are cartographic representations, not precise engineering data.
 - The index uses equal geographic treatment for all conflict events within the radius, regardless of whether they specifically target maritime infrastructure.
+- AISstream real-time vessel tracking was tested but the service was unavailable at the time of development. The capture script (`src/capturar_ais.py`) is included for future use when the service is restored.
 
 ---
 
