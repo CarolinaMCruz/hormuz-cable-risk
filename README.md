@@ -1,19 +1,19 @@
 # Hormuz Cable Risk
-### Geopolitical Risk Index for Submarine Cable Infrastructure in the Strait of Hormuz
+### Vulnerability Index for Coastal Cable Infrastructure in the Gulf Zone
 
 ---
 
 ## Overview
 
-This project builds a **digital vulnerability index** for countries whose submarine cable infrastructure passes through the Strait of Hormuz — one of the most strategically critical and geopolitically volatile chokepoints in the world.
+This project builds a **coastal infrastructure vulnerability index** for countries whose submarine cable landing points are located in the Gulf zone — the coastal entry and exit points where submarine cables are most exposed to damage.
 
-By crossing three independent data sources, the project identifies which countries are most exposed to digital isolation in the event of cable damage, whether accidental or deliberate.
+Landing points represent the most vulnerable segment of any submarine cable system: they are accessible, concentrated, and surrounded by support infrastructure that can be disrupted by nearby conflict or instability.
 
 ---
 
 ## The Question This Project Answers
 
-> *If submarine cables in the Strait of Hormuz are damaged, which countries lose the most connectivity — and how vulnerable are they?*
+> *Which countries in the Gulf zone have the most exposed cable landing infrastructure, and how does nearby conflict increase their vulnerability?*
 
 ---
 
@@ -137,6 +137,7 @@ open outputs/mapa_completo.html
 - Cable route geometries from TeleGeography are cartographic representations, not precise engineering data.
 - The index uses equal geographic treatment for all conflict events within the radius, regardless of whether they specifically target maritime infrastructure.
 - AISstream real-time vessel tracking was tested but the service was unavailable at the time of development. The capture script (`src/capturar_ais.py`) is included for future use when the service is restored.
+- This index measures risk at cable landing points (coastal infrastructure), not along submarine cable routes on the seafloor. Seabed risk from vessel anchoring or fishing requires AIS vessel traffic data, which was not available for this project.
 
 ---
 
