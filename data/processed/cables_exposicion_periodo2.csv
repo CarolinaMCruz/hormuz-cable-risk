@@ -1,0 +1,29 @@
+cable_id,cable_name,horas_trafico,n_celdas,vessel_ids,n_banderas
+falcon,FALCON,1153178.0,13663,87676,122
+2africa,2Africa,744635.0,9276,53934,118
+gulf-bridge-international-cable-systemmiddle-east-north-africa-cable-system-gbicsmena,Gulf Bridge International Cable System/Middle East North Africa Cable System (GBICS/MENA),640168.0,13194,75679,117
+tata-tgn-gulf,Tata TGN-Gulf,575342.0,8556,49903,118
+fiber-optic-gulf-fog,Fiber Optic Gulf (FOG),550876.0,3587,26512,104
+fibre-in-gulf-fig,Fibre in Gulf (FIG),455022.0,6564,43567,115
+seamewe-6,SeaMeWe-6,310708.0,7114,40985,116
+asia-africa-europe-1-aae-1,Asia Africa Europe-1 (AAE-1),175583.0,6631,31278,104
+sir-abu-nuayr-cable,Sir Abu Nu’ayr Cable,120732.0,928,6653,93
+qatar-u-a-e-submarine-cable-system,Qatar-U.A.E. Submarine Cable System,107610.0,796,5442,51
+kuwait-iran,Kuwait-Iran,103630.0,600,5927,62
+omranepeg,OMRAN/EPEG,103039.0,3879,17362,99
+seamewe-5,SeaMeWe-5,29787.0,2855,9483,95
+imewe,IMEWE,29129.0,2331,7910,94
+seamewe-4,SeaMeWe-4,27778.0,2270,7654,91
+the-east-african-marine-system-teams,The East African Marine System (TEAMS),26305.0,2087,7332,95
+transworld-tw1,Transworld (TW1),24814.0,2241,7900,92
+bay-of-bengal-gateway-bbg,Bay of Bengal Gateway (BBG),24777.0,2241,7685,95
+africa-1,Africa-1,23341.0,2733,10427,91
+uae-iran,UAE-Iran,22123.0,932,4202,91
+fea,FEA,21918.0,2571,8783,93
+peace-cable,PEACE Cable,21720.0,1546,5671,91
+europe-india-gateway-eig,Europe India Gateway (EIG),19581.0,2128,6405,95
+pishgaman-oman-iran-poi-network,Pishgaman Oman Iran (POI) Network,17716.0,1842,6188,95
+dhivaru,Dhivaru,14120.0,973,3305,87
+middle-east-north-africa-mena-cable-systemgulf-bridge-international,Middle East North Africa (MENA) Cable System/Gulf Bridge International,7457.0,1501,5600,85
+oman-australia-cable-oac,Oman Australia Cable (OAC),6321.0,1359,4720,89
+raman,Raman,4646.0,1114,3370,93
